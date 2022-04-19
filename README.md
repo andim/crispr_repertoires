@@ -2,7 +2,7 @@
 
 This repository contains the source code associated with the manuscript
 
-Hanrong Chen, Andreas Mayer, Vijay Balasubramanian: [A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity](https://doi.org/10.1101/2021.01.04.425308), bioRxiv 2021
+Hanrong Chen, Andreas Mayer, Vijay Balasubramanian: [A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity](https://doi.org/10.1101/2021.01.04.425308), Current Biology 2022
 
 It allows reproduction of the statistical analyses and numerical results reported in the manuscript.
 
