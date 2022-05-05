@@ -1,0 +1,2583 @@
+# Host: Taxid 287
+
+>NC_054149.1 |Pseudomonas phage Persinger, complete genome
+>NC_053013.1 |Pseudomonas phage vB_Pae-SS2019XI, complete genome
+>NC_052965.1 |Pseudomonas phage ZC01, complete genome
+>NC_050143.1 |Pseudomonas phage datas, complete genome
+>NC_050145.1 |Pseudomonas phage PaGU11 DNA, complete genome
+>NC_050148.1 |Pseudomonas virus Pa193, complete genome
+>NC_050149.1 |Pseudomonas phage vB_PaeM_USP_1, complete genome
+>NC_050150.1 |Pseudomonas phage antinowhere, complete genome
+>NC_050151.1 |Pseudomonas phage crassa, complete genome
+>NC_048626.1 |Pseudomonas phage PA01 DNA, nearly complete genome
+>NC_048638.1 |Pseudomonas phage ZC03, complete genome
+>NC_048639.1 |Pseudomonas phage ZC08, complete genome
+>NC_048676.1 |Pseudomonas phage SL1, complete genome
+>NC_048699.1 |Pseudomonas phage vB_PaeM_LS1, complete genome
+>NC_048745.1 |Pseudomonas phage vB_PaeM_SCUT-S1, complete genome
+>NC_048806.1 |Pseudomonas virus PA8P1, complete genome
+>NC_047852.1 |Pseudomonas phage phiNFS, complete genome
+>NC_047952.1 |Pseudomonas phage PAXYB1, complete genome
+>NC_047953.1 |Pseudomonas phage vB_PaeP_130_113, complete genome
+>NC_047967.1 |Pseudomonas phage vB_PaeP_PAO1_1-15pyo, complete genome
+>NC_048109.1 |Pseudomonas phage Dobby, complete genome
+>NC_048168.1 |Pseudomonas phage RLP, complete genome
+>NC_042342.1 |Pseudomonas virus H66, complete genome
+>NC_042343.1 |Pseudomonas phage PaP4, complete genome
+>NC_041865.1 |Pseudomonas phage phiKTN6, complete genome
+>NC_041870.1 |Pseudomonas phage vB_PaeM_CEB_DP1, complete genome
+>NC_041877.1 |Pseudomonas phage SM1, complete genome
+>NC_041902.1 |Pseudomonas phage PA5, complete genome
+>NC_041903.1 |Pseudomonas phage PA10, complete genome
+>NC_041904.1 |Pseudomonas phage Zigelbrucke, complete genome
+>NC_041907.1 |Pseudomonas phage PA26, complete genome
+>NC_041934.1 |Pseudomonas phage LKO4, complete genome
+>NC_041953.1 |Pseudomonas phage PaMx25, complete genome
+>NC_041968.1 |Pseudomonas phage vB_PaeM_G1, complete genome
+>NC_042060.1 |Pseudomonas phage PA7, partial genome
+>NC_042071.1 |Pseudomonas phage phiYY segment L, complete sequence
+>NC_042072.1 |Pseudomonas phage phiYY segment M, complete sequence
+>NC_042073.1 |Pseudomonas phage phiYY segment S, complete sequence
+>NC_042081.1 |Pseudomonas phage SL2, complete genome
+>NC_042113.1 |Pseudomonas phage vB_PaeM_C2-10_Ab02, complete genome
+>NC_042115.1 |Pseudomonas phage vB_PaeS_PAO1_Ab19, complete genome
+>NC_031274.1 |Pseudomonas phage O4, complete genome
+>NC_031063.1 |Pseudomonas phage PEV2, complete genome
+>NC_031073.1 |Pseudomonas phage vB_PaeM_MAG1, complete genome
+>NC_031091.1 |Pseudomonas phage MD8, complete genome
+>NC_031104.1 |Pseudomonas phage vB_PaeP_MAG4, complete genome
+>NC_031110.1 |Pseudomonas phage phiMK, complete genome
+>NC_030908.1 |Pseudomonas phage JBD69, complete genome
+>NC_030910.1 |Pseudomonas phage K5, complete genome
+>NC_030918.1 |Pseudomonas phage JBD93, complete genome
+>NC_030929.1 |Pseudomonas phage JBD44, complete genome
+>NC_030931.1 |Pseudomonas phage phi2, complete genome
+>NC_030940.1 |Pseudomonas phage phi3, complete genome
+>NC_029083.1 |Pseudomonas phage PaoP5, complete genome
+>NC_029101.1 |Pseudomonas phage YH30, complete genome
+>NC_028745.1 |Pseudomonas phage DL60, complete genome
+>NC_028770.1 |Pseudomonas phage PaMx11, complete genome
+>NC_028809.1 |Pseudomonas phage PaMx74, partial genome
+>NC_028817.1 |Pseudomonas phage K8, complete genome
+>NC_028836.1 |Pseudomonas phage DL62, complete genome
+>NC_028879.1 |Pseudomonas phage PaMx42, complete genome
+>NC_028882.1 |Pseudomonas phage vB_PaeM_PS24, complete genome
+>NC_028885.1 |Pseudomonas phage DL64, complete genome
+>NC_028919.1 |Pseudomonas phage DL54, complete genome
+>NC_028931.1 |Pseudomonas phage PaMx28, partial genome
+>NC_028933.1 |Pseudomonas phage PhiCHU, complete genome
+>NC_028939.1 |Pseudomonas phage vB_Pae_PS44, complete genome
+>NC_028971.1 |Pseudomonas phage DL68, complete genome
+>NC_028980.1 |Pseudomonas phage PAE1, complete genome
+>NC_028999.1 |Pseudomonas phage PhiPA3, complete genome
+>NC_029017.1 |Pseudomonas phage KPP21 DNA, complete genome
+>NC_028652.1 |Pseudomonas phage C11, complete genome
+>NC_028657.1 |Pseudomonas phage YMC11/02/R656, complete genome
+>NC_028667.1 |Pseudomonas phage vB_PaeS_PM105
+>NC_027345.1 |Pseudomonas phage Pa2, complete genome
+>NC_027375.1 |Pseudomonas phage vB_PaeP_PPA-ABTNL, complete genome
+>NC_027384.1 |Pseudomonas phage H70, complete genome
+>NC_027388.1 |Pseudomonas phage YH6, complete genome
+>NC_026586.1 |Pseudomonas phage vB_PaeM_PAO1_Ab27, complete genome
+>NC_026587.1 |Pseudomonas phage vB_PaeM_PAO1_Ab03, complete genome
+>NC_026594.1 |Pseudomonas phage vB_PaeS_PAO1_Ab18, complete genome
+>NC_026599.1 |Pseudomonas phage vB_PaeP_C2-10_Ab22, complete genome
+>NC_026600.1 |Pseudomonas phage vB_PaeM_C1-14_Ab28, complete genome
+>NC_026601.1 |Pseudomonas phage vB_PaeS_PAO1_Ab30, complete genome
+>NC_026602.1 |Pseudomonas phage vB_PaeP_PAO1_Ab05, complete genome
+>NC_024782.1 |Pseudomonas phage MP48, complete genome
+>NC_024381.1 |Pseudomonas phage vB_PaeS_SCH_Ab26, complete genome
+>NC_024330.1 |Pseudomonas phage JD024, complete genome
+>NC_024140.1 |Pseudomonas phage vB_PaeP_C2-10_Ab09, complete genome
+>NC_024123.1 |Pseudomonas phage KPP25 DNA, complete sequence
+>NC_023700.1 |Pseudomonas phage PA1/KOR/2010, complete genome
+>NC_023575.1 |Pseudomonas phage vB_PaeP_Tr60_Ab31
+>NC_023583.1 |Pseudomonas phage TL complete genome
+>NC_022966.1 |Pseudomonas phage PAK_P5, complete genome
+>NC_022967.1 |Pseudomonas phage PAK_P2, complete genome
+>NC_022970.1 |Pseudomonas phage PAK_P3, complete genome
+>NC_022971.1 |Pseudomonas phage phiIBB-PAA2, complete genome
+>NC_022974.1 |Pseudomonas phage CHA_P1, complete genome
+>NC_022986.1 |Pseudomonas phage PAK_P4, complete genome
+>NC_022746.1 |Pseudomonas phage MPK6, complete genome
+>NC_022091.1 |Pseudomonas phage MPK7, complete genome
+>NC_022096.1 |Pseudomonas phage PaBG, complete genome
+>NC_019913.1 |Pseudomonas phage PaP1, complete genome
+>NC_019918.1 |Pseudomonas phage vB_PaeM_C2-10_Ab1 complete genome
+>NC_019935.1 |Pseudomonas phage KPP12 DNA, complete genome
+>NC_019813.1 |Pseudomonas phage vB_PaeP_p2-10_Or1, complete genome
+>NC_017674.1 |Pseudomonas phage JG024, complete genome
+>NC_019450.1 |Pseudomonas phage JG004, complete genome
+>NC_019451.1 |Pseudomonas phage NH-4, complete genome
+>NC_018274.1 |Pseudomonas phage MP42, complete genome
+>NC_018282.1 |Pseudomonas phage MP1412, complete genome
+>NC_017864.1 |Pseudomonas phage vB_Pae-Kakheti25, complete genome
+>NC_017865.1 |Pseudomonas phage vB_Pae-TbilisiM32, complete genome
+>NC_016762.1 |Pseudomonas phage phi297, complete genome
+>NC_016765.1 |Pseudomonas phage vB_PaeS_PMG1, complete genome
+>NC_015294.2 |Pseudomonas phage PAK_P1, complete genome
+>NC_013691.1 |Pseudomonas phage LUZ7, complete genome
+>NC_013692.1 |Pseudomonas phage LIT1, complete genome
+>NC_012418.1 |Pseudomonas phage phikF77, complete genome
+>NC_011810.1 |Pseudomonas phage PB1, complete genome
+>NC_011756.1 |Pseudomonas phage SN, complete genome
+>NC_011611.1 |Pseudomonas phage MP38, complete genome
+>NC_011613.1 |Pseudomonas phage MP29, complete genome
+>NC_011373.1 |Pseudomonas phage PAJU2, complete genome
+>NC_011165.1 |Pseudomonas phage LBL3, complete genome
+>NC_011166.1 |Pseudomonas phage LMA2, complete genome
+>NC_011105.1 |Pseudomonas phage PT5, complete genome
+>NC_011107.1 |Pseudomonas phage PT2, complete genome
+>NC_010325.1 |Pseudomonas phage LUZ24, complete genome
+>NC_010326.1 |Pseudomonas phage LUZ19, complete genome
+>NC_010116.1 |Pseudomonas phage YuA, complete genome
+>NC_009935.1 |Pseudomonas phage LKD16, complete genome
+>NC_009936.1 |Pseudomonas phage LKA1, complete genome
+>NC_009818.1 |Pseudomonas phage MP22, complete genome
+>NC_008717.1 |Pseudomonas phage DMS3, complete genome
+>NC_007805.1 |Pseudomonas phage F10, complete genome
+>NC_007806.1 |Pseudomonas phage 73, complete genome
+>NC_007807.1 |Pseudomonas phage 119X, complete genome
+>NC_007808.1 |Pseudomonas phage PA11, complete genome
+>NC_007809.1 |Pseudomonas phage M6, complete genome
+>NC_007810.1 |Pseudomonas phage F8, complete genome
+>NC_007623.1 |Pseudomonas phage EL, complete genome
+>NC_006548.1 |Pseudomonas phage B3, complete genome
+>NC_006552.1 |Pseudomonas phage F116, complete genome
+>NC_005884.1 |Pseudomonas phage PaP2, complete genome
+>NC_005178.1 |Bacteriophage D3112, complete genome
+>NC_005045.1 |Pseudomonas phage phiKMV, complete genome
+>NC_002484.2 |Bacteriophage D3, complete genome
+>NC_003278.1 |Pseudomonas phage phiCTX, complete genome
+>NC_001628.1 |Pseudomonas phage PP7, complete genome
+>NC_001418.1 |Pseudomonas phage Pf3, complete genome
+>NC_001331.1 |Pseudomonas phage Pf1, complete genome
+>MN563783.1 |Pseudomonas phage vB_PA6_GUMS, complete genome
+>MN563784.1 |Pseudomonas phage vB_PA32_GUMS, complete genome
+>MN563785.1 |Pseudomonas phage vB_PA45_GUMS, complete genome
+>MW748993.1 |Pseudomonas phage BUCT566, complete genome
+>MW835180.1 |Pseudomonas phage vB_PaeS_PAJD-1, complete genome
+>MW735835.1 |Pseudomonas phage pPa_SNUABM_DT01, complete genome
+>MW512830.1 |UNVERIFIED: Pseudomonas phage Qaehs, complete genome
+>MW595220.1 |Pseudomonas phage vB_PaeM_V523, complete genome
+>MW595221.1 |Pseudomonas phage vB_PaeM_V524, complete genome
+>MW329986.1 |Pseudomonas phage vB_PaeP_fHoPae04, complete genome
+>MW557846.1 |Pseudomonas phage zikora, complete genome
+>MW460249.1 |Pseudomonas phage Itty13, complete genome
+>MN029011.1 |Pseudomonas phage Iggy, complete genome
+>MW390886.1 |Pseudomonas phage AIIMS-Pa-B1, complete genome
+>MW406974.1 |Pseudomonas phage TH15, complete genome
+>MW406975.1 |Pseudomonas phage MYY9, complete genome
+>MW406976.1 |Pseudomonas phage HX1, complete genome
+>MT416090.1 |Pseudomonas phage vB_Pae_AM.P2, complete genome
+>MW117144.1 |Pseudomonas phage AIIMS-Pa-A1, complete genome
+>MW057919.1 |Pseudomonas phage vB_PaeM_kmuB, complete genome
+>MT933737.1 |Pseudomonas phage PASA16, complete genome
+>MT613935.1 |Pseudomonas phage Persinger, complete genome
+>MT491204.1 |Pseudomonas phage vB_PaeM_USP_1, complete genome
+>MT491205.1 |Pseudomonas phage vB_PaeM_USP_2, complete genome
+>MT491206.1 |Pseudomonas phage vB_PaeM_USP_3, complete genome
+>MT491207.1 |Pseudomonas phage vB_PaeM_USP_18, complete genome
+>MT491208.1 |Pseudomonas phage vB_PaeM_USP_25, complete genome
+>MT349888.1 |Pseudomonas phage PHW2, complete genome
+>LC552830.1 |Pseudomonas phage vB_PaeS-Yazdi-M DNA, complete genome
+>MT133560.1 |Pseudomonas phage fnug, complete genome
+>MT133561.1 |Pseudomonas phage goonie, complete genome
+>MT133562.1 |Pseudomonas phage willy, complete genome
+>MT133563.1 |Pseudomonas phage billy, complete genome
+>MT119362.1 |Pseudomonas phage clash, complete genome
+>MT119363.1 |Pseudomonas phage debbie, complete genome
+>MT119364.1 |Pseudomonas phage elmo, complete genome
+>MT119365.1 |Pseudomonas phage goodold, complete genome
+>MT119366.1 |Pseudomonas phage jett, complete genome
+>MT119367.1 |Pseudomonas phage misfit, complete genome
+>MT119368.1 |Pseudomonas phage shane, complete genome
+>MT119369.1 |Pseudomonas phage sortsol, complete genome
+>MT119370.1 |Pseudomonas phage steven, complete genome
+>MT119371.1 |Pseudomonas phage oldone, complete genome
+>MT119372.1 |Pseudomonas phage cory, complete genome
+>MT119373.1 |Pseudomonas phage otherone, complete genome
+>MT119374.1 |Pseudomonas phage antinowhere, complete genome
+>MT119375.1 |Pseudomonas phage chumba, complete genome
+>MT119376.1 |Pseudomonas phage chunk, complete genome
+>MT119377.1 |Pseudomonas phage crassa, complete genome
+>MT119378.1 |Pseudomonas phage datas, complete genome
+>MN536026.1 |Pseudomonas phage vB_Pae-SS2019XI, complete genome
+>MN871454.1 |UNVERIFIED: Pseudomonas phage Pa-A, complete genome
+>MN871455.1 |UNVERIFIED: Pseudomonas phage Pa-B, complete genome
+>MN871456.1 |UNVERIFIED: Pseudomonas phage Pa-C, complete genome
+>MN871457.1 |UNVERIFIED: Pseudomonas phage Pa-F, complete genome
+>MN871458.1 |UNVERIFIED: Pseudomonas phage Pa-G, complete genome
+>MN871459.1 |UNVERIFIED: Pseudomonas phage Pa-H, complete genome
+>MN871460.1 |UNVERIFIED: Pseudomonas phage Pa-I, complete genome
+>MN871461.1 |UNVERIFIED: Pseudomonas phage Pa-J, complete genome
+>MN871462.1 |UNVERIFIED: Pseudomonas virus Pa-K, complete genome
+>MN871463.1 |UNVERIFIED: Pseudomonas phage Pa-L, complete genome
+>MN871464.1 |UNVERIFIED: Pseudomonas phage Pa-M, complete genome
+>MN871465.1 |UNVERIFIED: Pseudomonas virus Pa-N, complete genome
+>MN871466.1 |UNVERIFIED: Pseudomonas phage Pa-O, complete genome
+>MN871467.1 |UNVERIFIED: Pseudomonas phage Pa-P, complete genome
+>MN871468.1 |UNVERIFIED: Pseudomonas phage Pa-Q, complete genome
+>MN871469.1 |UNVERIFIED: Pseudomonas phage Pa-S, complete genome
+>MN871470.1 |UNVERIFIED: Pseudomonas phage Pa-U, complete genome
+>MN871471.1 |UNVERIFIED: Pseudomonas virus Pa-V, complete genome
+>MN871472.1 |UNVERIFIED: Pseudomonas virus Pa-X, complete genome
+>MN871473.1 |UNVERIFIED: Pseudomonas virus Pa-Z, complete genome
+>MN871474.1 |UNVERIFIED: Pseudomonas virus Pa-oumiga, complete genome
+>MN871475.1 |UNVERIFIED: Pseudomonas virus Pa-sanjiao, complete genome
+>MN871476.1 |UNVERIFIED: Pseudomonas phage PaLz-1-45, complete genome
+>MN871477.1 |UNVERIFIED: Pseudomonas virus PaLz-2-43, complete genome
+>MN871478.1 |UNVERIFIED: Pseudomonas phage PaSt-2_45_61k, complete genome
+>MN871479.1 |UNVERIFIED: Pseudomonas phage PaSt-2_45_65k, complete genome
+>MN871480.1 |UNVERIFIED: Pseudomonas phage PaSz-1_45_270k, complete genome
+>MN871481.1 |UNVERIFIED: Pseudomonas phage PaSz-1_45_92k, complete genome
+>MN871482.1 |UNVERIFIED: Pseudomonas virus PaSz-6, complete genome
+>MN871483.1 |UNVERIFIED: Pseudomonas phage PaSz-8_45_42k, complete genome
+>MN871484.1 |UNVERIFIED: Pseudomonas phage PaSz-8_45_45k, complete genome
+>MN871485.1 |UNVERIFIED: Pseudomonas phage PaSz-8_45_66k, complete genome
+>MN871486.1 |UNVERIFIED: Pseudomonas phage PaSz-9_45_61k, complete genome
+>MN871487.1 |UNVERIFIED: Pseudomonas phage PaSz-9_45_65k, complete genome
+>MN871488.1 |UNVERIFIED: Pseudomonas phage PaYy-2, complete genome
+>MN871489.1 |UNVERIFIED: Pseudomonas phage PaZh_1, complete genome
+>MN871508.1 |UNVERIFIED: Pseudomonas phage pasz2, complete genome
+>MN871509.1 |UNVERIFIED: Pseudomonas phage pasz5, complete genome
+>MN901924.1 |Pseudomonas phage vB_PaeP_PE3, complete genome
+>MN906996.1 |Pseudomonas phage LY218, complete genome
+>MN562749.1 |Pseudomonas phage U47, complete genome
+>MN692672.1 |Pseudomonas phage vB_PaeP_Lx18, complete genome
+>MN710383.1 |Pseudomonas phage pf8_ST274-AUS411, complete genome
+>MN508619.1 |UNVERIFIED: Pseudomonas phage Paer4, complete genome
+>MN508620.1 |UNVERIFIED: Pseudomonas phage E2005-24-39, complete genome
+>MN553583.1 |UNVERIFIED: Pseudomonas phage 4phiC20-2 clone 5, complete genome
+>MN553584.1 |UNVERIFIED: Pseudomonas phage 4phiC20-2 clone 7, complete genome
+>MN553585.1 |UNVERIFIED: Pseudomonas phage 4phiC20-1 clone 9, complete genome
+>MN553586.1 |UNVERIFIED: Pseudomonas phage phiKMVC5-4, complete genome
+>MN553587.1 |UNVERIFIED: Pseudomonas phage phiKMVC5(121) clone 4a, complete genome
+>MN553588.1 |UNVERIFIED: Pseudomonas phage phiKMVC5-12, complete genome
+>MN553589.1 |UNVERIFIED: Pseudomonas phage phiKMVC5(121) clone 13, complete genome
+>MN564818.1 |Pseudomonas phage DRL-P1, complete genome
+>MN615698.1 |Pseudomonas phage vB_PaeP_SPCB, complete genome
+>MN615699.1 |Pseudomonas phage vB_PaeP_SPCG, complete genome
+>MN615700.1 |Pseudomonas phage vB_PaeM_SMS12, complete genome
+>MN615701.1 |Pseudomonas phage vB_PaeM_SMS21, complete genome
+>MN615702.1 |Pseudomonas phage vB_PaeM_SMS29, complete genome
+>MN536027.1 |Pseudomonas phage vB_Pae-SS2019XII, complete genome
+>MN585195.1 |Pseudomonas phage AUS531phi, complete genome
+>MN602045.1 |Pseudomonas phage vB_PaeP_ASP23, complete genome
+>MK837009.1 |Pseudomonas virus Pa193, complete genome
+>MK837010.1 |Pseudomonas virus Pa204, complete genome
+>MK837011.1 |Pseudomonas virus Pa222, complete genome
+>MK837012.1 |Pseudomonas virus Pa223, complete genome
+>MN504636.1 |Pseudomonas phage Quinobequin-P09, complete genome
+>MK799650.1 |Pseudomonas phage PAP-JP, complete genome
+>MN131141.1 |Pseudomonas virus PaP1_EPu-2019, complete genome
+>MN131142.1 |Pseudomonas virus PA8P1, complete genome
+>MN131143.1 |Pseudomonas virus PA11P1, complete genome
+>MK443264.1 |Pseudomonas phage ITTPL, complete genome
+>MK443265.1 |Pseudomonas phage JHP, complete genome
+>MK443266.1 |UNVERIFIED: Pseudomonas phage RSP, complete genome
+>MH719189.1 |Pseudomonas phage Fc02, complete genome
+>MH719190.1 |Pseudomonas phage H71, complete genome
+>MH719191.1 |Pseudomonas phage Fc22, complete genome
+>MH719192.1 |Pseudomonas phage Ps56, complete genome
+>MH719193.1 |Pseudomonas phage H72, complete genome
+>MH719194.1 |Pseudomonas phage Ps60, complete genome
+>MH719195.1 |Pseudomonas phage Ps59, complete genome
+>MN096267.1 |Pseudomonas phage vB_PaS_IME307, complete genome
+>MK934841.1 |Pseudomonas phage UMP151, complete genome
+>MN013356.1 |Pseudomonas phage vB_PaM_EPA1, complete genome
+>MK803322.1 |Pseudomonas phage RSP, complete genome
+>MK816297.1 |Pseudomonas virus PBPA162, complete genome
+>MK819239.1 |Pseudomonas phage vB_PaeP_YA3, complete genome
+>MK599315.1 |Pseudomonas phage PA1C, complete genome
+>MH973725.1 |Pseudomonas phage SaPL, complete genome
+>MH979674.1 |Pseudomonas phage RLP, complete genome
+>MH791399.2 |Pseudomonas phage PaGz-1, complete genome
+>MH791403.1 |UNVERIFIED: Pseudomonas phage PaTs-2, complete genome
+>MH791406.1 |UNVERIFIED: Pseudomonas phage PaSz-4, complete genome
+>MH791408.2 |Pseudomonas phage PaZq-1, complete genome
+>MH791416.1 |UNVERIFIED: Pseudomonas phage PaSzW-1, complete genome
+>MK224498.1 |Pseudomonas phage Henu5, complete genome
+>MK340760.1 |Pseudomonas phage vB_PaeM_SCUT-S1, complete genome
+>MK340761.1 |Pseudomonas phage vB_PaeM_SCUT-S2, complete genome
+>MK318076.1 |Pseudomonas phage vB_PaeM_fHoPae01, complete genome
+>MK165657.1 |Pseudomonas phage vB_PaeS_SCUT-S3, complete genome
+>MK165658.1 |Pseudomonas phage vB_PaeS_SCUT-S4, complete genome
+>MK034952.1 |Pseudomonas phage Dobby, complete genome
+>MK138526.1 |Pseudomonas phage vB_PaeM_LCK69, complete genome
+>MK144667.1 |Pseudomonas phage Spike, complete genome
+>MG432151.1 |Pseudomonas phage Delta, complete genome
+>MG589385.1 |Pseudomonas phage phiPA01_302, complete genome
+>MG589386.1 |Pseudomonas phage phiPA01_EW, complete genome
+>MH725810.1 |Pseudomonas phage PaYy-2, complete genome
+>MH643777.1 |Pseudomonas phage YMC12/01/R960, complete genome
+>MH643778.1 |Pseudomonas phage YMC12/01/R24, complete genome
+>MH536736.1 |Pseudomonas phage E79, complete genome
+>MH370478.1 |Pseudomonas phage SRT6, complete genome
+>MH356729.1 |Pseudomonas phage LP14, complete genome
+>MH107770.1 |Pseudomonas phage vB_PaeP_130_113, complete genome
+>KY618819.1 |Pseudomonas phage PAXYB1, complete genome
+>MG897799.1 |Pseudomonas phage vB_PaeM_LS1, complete genome
+>MG897800.1 |Pseudomonas phage vB_PaeS_C1, complete genome
+>MF768469.1 |Pseudomonas phage SL4, complete genome
+>MF768470.1 |Pseudomonas phage SL1, complete genome
+>KX898399.1 |Pseudomonas phage JG012, complete genome
+>KX898400.1 |Pseudomonas phage JG054, complete genome
+>MG676466.1 |Pseudomonas phage TC6, complete genome
+>MF805716.1 |Pseudomonas phage SL2, complete genome
+>MF788075.1 |Pseudomonas phage IME180, complete genome
+>KY994101.1 |Pseudomonas phage vB_PaeM_G1, complete genome
+>KY707339.1 |Pseudomonas phage JBD68, complete genome
+>KX074201.1 |Pseudomonas phage phiYY segment L, complete sequence
+>KX074202.1 |Pseudomonas phage phiYY segment M, complete sequence
+>KX074203.1 |Pseudomonas phage phiYY segment S, complete sequence
+>KU356689.1 |Pseudomonas phage ZC01, complete genome
+>KU356690.1 |Pseudomonas phage ZC03, complete genome
+>KU356691.1 |Pseudomonas phage ZC08, complete genome
+>KY000082.1 |Pseudomonas phage PA5, complete genome
+>KY000083.1 |Pseudomonas phage PA10, complete genome
+>KY073228.1 |Pseudomonas phage Zigelbrucke, complete genome
+>KX711710.1 |Pseudomonas phage vB_Pae-TbilisiM32, complete genome
+>KU884561.1 |Pseudomonas phage PaMx33, complete genome
+>KU884562.1 |Pseudomonas phage PaMx35, complete genome
+>KU884563.1 |Pseudomonas phage PaMx41, complete genome
+>KU884564.1 |Pseudomonas phage PaMx43, complete genome
+>KU884565.1 |Pseudomonas phage PaMx46, complete genome
+>KX198612.1 |Pseudomonas phage MD8, complete genome
+>KX198613.2 |Pseudomonas phage AN14, complete genome
+>KU521356.1 |Pseudomonas phage KTN4, complete genome
+>KU948710.1 |Pseudomonas phage PEV2, complete genome
+>KR052142.1 |Pseudomonas phage vB_PaeP_MAG4, complete genome
+>KR052143.1 |Pseudomonas phage vB_PaeM_MAG1, complete genome
+>KU743887.1 |Pseudomonas phage phiNFS, complete genome
+>KU761955.1 |Pseudomonas phage phiMK, complete genome
+>KU535860.1 |Pseudomonas phage O4, complete genome
+>KU199708.1 |Pseudomonas phage JBD69, complete genome
+>KU199709.1 |Pseudomonas phage JBD93, complete genome
+>KU199710.1 |Pseudomonas phage JBD44, complete genome
+>KU204984.2 |Pseudomonas phage AAT-1, complete genome
+>KU497559.1 |Pseudomonas phage K5, complete genome
+>KP340287.1 |Pseudomonas phage phiKT28, complete genome
+>KP340288.1 |Pseudomonas phage phiKTN6, complete genome
+>KT887557.1 |Pseudomonas phage phi1, complete genome
+>KT887558.1 |Pseudomonas phage phi2, complete genome
+>KT887559.1 |Pseudomonas phage phi3, complete genome
+>KU198331.1 |Pseudomonas phage NP3, complete genome
+>KC758116.1 |Pseudomonas phage LKO4, complete genome
+>KC900378.1 |Pseudomonas phage LKA5, complete genome
+>KU245542.1 |Pseudomonas phage SM1, complete genome
+>KU297675.1 |Pseudomonas phage PaoP5, complete genome
+>LC105987.1 |Pseudomonas phage KPP22 DNA, complete genome
+>LC105988.1 |Pseudomonas phage KPP22M1 DNA, complete genome
+>LC105989.1 |Pseudomonas phage KPP22M2 DNA, complete genome
+>LC105990.1 |Pseudomonas phage KPP22M3 DNA, complete genome
+>KT968831.1 |Pseudomonas phage YMC11/02/R656, complete genome
+>KT968832.1 |Pseudomonas phage YMC11/11/R1836, complete genome
+>KT372690.1 |Pseudomonas phage Gallinipper, complete genome
+>KT372691.1 |Pseudomonas phage Jollyroger, complete genome
+>KT372692.1 |Pseudomonas phage Kraken, complete genome
+>KT372693.1 |Pseudomonas phage Kula, complete genome
+>KT372694.1 |Pseudomonas phage Nemo, complete genome
+>KT372695.1 |Pseudomonas phage Nessie, complete genome
+>KT372696.1 |Pseudomonas phage Poseidon, complete genome
+>KT372697.1 |Pseudomonas phage Smee, complete genome
+>KT372698.1 |Pseudomonas phage Triton, complete genome
+>KT804923.1 |Pseudomonas phage C11, complete genome
+>KT734862.1 |Pseudomonas phage PAE1, complete genome
+>KT736033.1 |Pseudomonas phage K8, complete genome
+>KM434184.1 |Pseudomonas phage vB_Pae_PS44, complete genome
+>KM434185.1 |Pseudomonas phage vB_Pae_PS9N, complete genome
+>KM434186.1 |Pseudomonas phage vB_PaeM_PS24, complete genome
+>KR869157.1 |Pseudomonas phage vB_PaeM_CEB_DP1, complete genome
+>LC064302.1 |Pseudomonas phage KPP21 DNA, complete genome
+>KR054028.1 |Pseudomonas phage DL52, complete genome
+>KR054029.1 |Pseudomonas phage DL54, complete genome
+>KR054030.1 |Pseudomonas phage DL60, complete genome
+>KR054031.1 |Pseudomonas phage DL62, complete genome
+>KR054032.1 |Pseudomonas phage DL64, complete genome
+>KR054033.1 |Pseudomonas phage DL68, complete genome
+>KP994390.1 |Pseudomonas phage YH30, complete genome
+>KM067278.1 |Pseudomonas phage vB_PaeP_PPA-ABTNL, complete genome
+>KP233880.1 |Pseudomonas phage PhiCHU, complete genome
+>KM233689.1 |Pseudomonas phage H70, complete genome
+>KM411958.1 |Pseudomonas phage RWG, complete genome
+>KM411959.1 |Pseudomonas phage Pa2, complete genome
+>KM411960.1 |Pseudomonas phage phi176, complete genome
+>KM974184.1 |Pseudomonas phage YH6, complete genome
+>KF475786.1 |Pseudomonas phage MP48, complete genome
+>KJ477077.1 |Pseudomonas phage JD024, complete genome
+>AB910393.1 |Pseudomonas phage KPP25 DNA, complete sequence
+>AB910392.1 |Pseudomonas phage KPP23 DNA, complete sequence
+>KF981875.1 |Pseudomonas phage SPM-1, complete genome
+>KF856712.1 |Pseudomonas phage phiIBB-PAA2, complete genome
+>KC862295.1 |Pseudomonas phage CHA_P1, complete genome
+>KC862296.1 |Pseudomonas phage P3_CHA, complete genome
+>KC862297.1 |Pseudomonas phage PAK_P1, complete genome
+>KC862298.1 |Pseudomonas phage PAK_P2, complete genome
+>KC862299.1 |Pseudomonas phage PAK_P3, complete genome
+>KC862300.1 |Pseudomonas phage PAK_P4, complete genome
+>KC862301.1 |Pseudomonas phage PAK_P5, complete genome
+>JX997978.1 |Pseudomonas phage MPK6, complete genome
+>JX501340.1 |Pseudomonas phage MPK7, complete genome
+>KF147891.1 |Pseudomonas phage PaBG, complete genome
+>KC969441.1 |UNVERIFIED: Pseudomonas phage MBL, complete genome
+>KC262634.1 |Pseudomonas virus H66, complete genome
+>JX403939.1 |Pseudomonas phage YMC/01/01/P52_PAE_BP, complete genome
+>AB560486.1 |Pseudomonas phage KPP12 DNA, complete genome
+>JX194238.1 |Pseudomonas phage PA26, complete genome
+>JQ762257.1 |Pseudomonas phage MP42, complete genome
+>JX131330.1 |Pseudomonas phage MP1412, complete genome
+>JQ067083.1 |UNVERIFIED: Pseudomonas phage PaMx13, complete genome
+>JQ067084.3 |Pseudomonas phage PaMx25, complete genome
+>JQ067085.2 |Pseudomonas phage PaMx73, complete genome
+>JQ067087.2 |Pseudomonas phage PaMx11, complete genome
+>JQ067092.2 |Pseudomonas phage PaMx42, complete genome
+>JN254800.1 |Pseudomonas phage NH-4, complete genome
+>JN254801.1 |Pseudomonas phage MR299-2, complete genome
+>JQ307386.1 |Pseudomonas phage vB_Pae-TbilisiM32, complete genome
+>JQ307387.1 |Pseudomonas phage vB_Pae-Kakheti25, complete genome
+>HQ711984.1 |Pseudomonas phage phi297, complete genome
+>HQ711985.1 |Pseudomonas phage vB_PaeS_PMG1, complete genome
+>HQ832595.1 |Pseudomonas phage PaP1, complete genome
+>HQ630627.1 |Pseudomonas phage PhiPA3, complete genome
+>GU988610.2 |Pseudomonas phage JG004, complete genome
+>HM624080.1 |Pseudomonas phage PA1/KOR/2010, complete genome
+>GU815091.1 |Pseudomonas phage JG024, complete genome
+>EU716414.1 |Pseudomonas phage PB1, complete genome
+>EU272036.1 |Pseudomonas phage MP29, complete genome
+>EU272037.1 |Pseudomonas phage MP38, complete genome
+>EU056923.1 |Pseudomonas phage PT5, complete genome
+>DQ873690.1 |Phage MP22, complete genome
+>AF232233.1 |Bacteriophage B3, complete genome
+>AY394005.1 |Bacteriophage D3112, complete genome
+>AF165214.2 |Bacteriophage D3, complete genome
+>AB008550.1 |Pseudomonas phage phiCTX DNA, complete genome
+
+
+# Host: Taxid 28901
+
+>NC_054638.1 |Salmonella phage vB_SenS_SB28, complete genome
+>NC_054639.1 |Salmonella phage Skate, complete genome
+>NC_054640.1 |UNVERIFIED: Salmonella phage Segz_1, complete genome
+>NC_054641.1 |Salmonella virus KFS-SE2, complete genome
+>NC_054642.1 |UNVERIFIED: Salmonella phage Seszw_1, complete genome
+>NC_054643.1 |UNVERIFIED: Salmonella phage SeSz-2, complete genome
+>NC_054644.1 |Salmonella virus VSt472, complete genome
+>NC_054645.1 |Salmonella phage LPST10, complete genome
+>NC_054647.1 |Salmonella phage Akira, complete genome
+>NC_054648.1 |Salmonella phage vB_Se_STGO-35-1, complete genome
+>NC_052990.1 |Salmonella phage Season12, complete genome
+>NC_052993.1 |Salmonella phage ER19, complete genome
+>NC_052994.1 |Salmonella phage BPS1, complete genome
+>NC_052995.1 |Salmonella phage BPS2, complete genome
+>NC_052996.1 |Salmonella phage BPS4, complete genome
+>NC_052999.1 |Salmonella phage ER24, complete genome
+>NC_053000.1 |UNVERIFIED: Salmonella phage SeWh-1, complete genome
+>NC_053001.1 |UNVERIFIED: Salmonella phage SeZq-1, complete genome
+>NC_053003.1 |Salmonella phage vB_SalS_ABTNLsp1, complete genome
+>NC_053004.1 |Salmonella phage TS13, complete genome
+>NC_053006.1 |Salmonella phage ER3, complete genome
+>NC_053007.1 |Salmonella phage ER6, complete genome
+>NC_049821.1 |Salmonella phage slyngel, complete genome
+>NC_049382.1 |Salmonella phage BSP101, complete genome
+>NC_049396.1 |Salmonella phage SP1, partial genome
+>NC_049428.1 |Salmonella phage Mutine, complete genome
+>NC_049437.1 |Salmonella phage S118, complete genome
+>NC_049439.1 |Salmonella phage SenASZ3, complete genome
+>NC_049440.1 |Salmonella phage SenALZ1, complete genome
+>NC_049443.1 |UNVERIFIED: Salmonella phage SeSz-1, complete genome
+>NC_049495.1 |Salmonella phage Se-B, complete genome
+>NC_049496.1 |Salmonella phage Se-G, complete genome
+>NC_049497.1 |Salmonella phage Se-J, complete genome
+>NC_049499.1 |Salmonella phage rabagast, complete genome
+>NC_049500.1 |Salmonella phage heyday, complete genome
+>NC_049501.1 |Salmonella phage allotria, complete genome
+>NC_049502.1 |Salmonella phage bering, complete genome
+>NC_049503.1 |Salmonella phage aagejoakim, complete genome
+>NC_049504.1 |Salmonella phage dinky, complete genome
+>NC_049505.1 |Salmonella phage barely, complete genome
+>NC_049506.1 |Salmonella phage moki, complete genome
+>NC_049507.1 |Salmonella phage pertopsoe, complete genome
+>NC_049508.1 |Salmonella phage maane, complete genome
+>NC_048632.1 |Salmonella phage 35, complete genome
+>NC_048649.1 |Salmonella phage UPF_BP2, complete genome
+>NC_048655.1 |Salmonella phage BSPM4, complete genome
+>NC_048683.1 |Salmonella phage KFS-SE1, complete genome
+>NC_048727.1 |Salmonella phage Siskin, complete genome
+>NC_048760.1 |Salmonella phage Sepoy, complete genome
+>NC_048781.1 |Salmonella phage vB_SenS_SB13, complete genome
+>NC_048794.1 |Salmonella virus VSe12, complete genome
+>NC_048795.1 |Salmonella phage Th1, complete genome
+>NC_048808.1 |Salmonella phage OSY-STA, partial genome
+>NC_048809.1 |Salmonella phage 2-3, complete genome
+>NC_048811.1 |Salmonella phage 1-29, complete genome
+>NC_048819.1 |Salmonella phage 1-19, complete genome
+>NC_048852.1 |Salmonella phage L6jm, complete genome
+>NC_048862.1 |Salmonella phage astrithr, complete genome
+>NC_048863.1 |Salmonella phage yarpen, complete genome
+>NC_048864.1 |Salmonella phage birk, complete genome
+>NC_048865.1 |Salmonella phage oldekolle, complete genome
+>NC_048866.1 |Salmonella phage bombadil, complete genome
+>NC_048867.1 |Salmonella phage faergetype, complete genome
+>NC_048868.1 |Salmonella phage rokbiter, complete genome
+>NC_048869.1 |Salmonella phage fuchur, complete genome
+>NC_048870.1 |Salmonella phage bastian, complete genome
+>NC_048871.1 |Salmonella phage oselot, complete genome
+>NC_048872.1 |Salmonella phage atrejo, complete genome
+>NC_047753.1 |Salmonella phage SEN8, complete genome
+>NC_047786.1 |Salmonella phage vB_SenS_Sasha, complete genome
+>NC_047859.1 |Salmonella phage SP01, complete genome
+>NC_047875.1 |Salmonella phage UPF_BP1, complete genome
+>NC_047898.1 |Salmonella phage YSP2, complete genome
+>NC_047941.1 |Salmonella phage vB_SpuP_Spp16, complete genome
+>NC_047999.1 |Salmonella phage SH9, partial genome
+>NC_048000.1 |Salmonella phage LVR16A, partial genome
+>NC_048004.1 |Salmonella phage 3A_8767, complete genome
+>NC_048005.1 |Salmonella phage S113, complete genome
+>NC_048006.1 |Salmonella phage S114, complete genome
+>NC_048007.1 |Salmonella phage S116, complete genome
+>NC_048008.1 |Salmonella phage S126, complete genome
+>NC_048009.1 |Salmonella phage S131, complete genome
+>NC_048010.1 |Salmonella phage S132, complete genome
+>NC_048011.1 |Salmonella phage S133, complete genome
+>NC_048012.1 |Salmonella phage S147, complete genome
+>NC_048013.1 |Salmonella phage S124, complete genome
+>NC_048062.1 |Salmonella phage Sw2, complete genome
+>NC_048089.1 |Salmonella phage STG2, complete genome
+>NC_048105.1 |Salmonella phage BSP161, complete genome
+>NC_048110.1 |Salmonella phage Seafire, complete genome
+>NC_048113.1 |Salmonella phage Lumpael, complete genome
+>NC_048145.1 |Salmonella phage 3-29, complete genome
+>NC_048179.1 |Salmonella phage ZCSE2, complete genome
+>NC_042346.1 |Salmonella virus BTP1 genome assembly, chromosome: BTP1
+>NC_041922.1 |Salmonella phage Si3, complete genome
+>NC_041991.1 |Salmonella phage vB_SenS_AG11, complete genome
+>NC_042025.1 |Salmonella phage SE1 (in:Nonagvirus), complete genome
+>NC_042038.1 |Enterobacteriophage phiKP26, complete genome
+>NC_042044.1 |Salmonella phage Melville, complete genome
+>NC_042062.1 |Salmonella phage FSL SP-069 hypothetical proteins, RdgC exonuclease, hypothetical proteins, TerL, hypothetical proteins, deoxyuridine 5'-triphosphate nucleotidohydrolase, hypothetical proteins, NinH, head morphogenesis protein, hypothetical proteins, capsid related protein, hypothetical proteins, enolase-like protein, hypothetical proteins, tail fiber, hypothetical protein, putative endolysin, hypothetical proteins, and DNA polymerase genes, complete cds
+>NC_042063.1 |Salmonella phage FSL SP-069 hypothetical protein gene, partial cds; and hypothetical proteins, helicase, endodeoxyribonuclease, hypothetical protein, primase, hypothetical proteins, Dcm, hypothetical proteins, ParB-like nuclease domain, hypothetical proteins, and putative polyphosphate hydrolase genes, complete cds
+>NC_042064.1 |Salmonella phage FSL SP-069 hypothetical protein genes, complete cds
+>NC_042065.1 |Salmonella phage FSL SP-101, partial genome
+>NC_042066.1 |Salmonella phage FSL SP-126, partial genome
+>NC_042096.1 |Salmonella phage BPS17L1, complete genome
+>NC_042097.1 |Salmonella phage BPS17W1, complete genome
+>NC_031021.1 |Salmonella phage MA12, complete genome
+>NC_031045.1 |Salmonella phage GG32, complete genome
+>NC_031902.1 |Salmonella phage 100268_sal2, complete genome
+>NC_031918.1 |Salmonella phage 64795_sal3, complete genome
+>NC_031925.1 |Salmonella phage BPS11Q3, complete genome
+>NC_031930.1 |Salmonella phage 118970_sal1, complete genome
+>NC_031933.1 |Salmonella phage 118970_sal2, complete genome
+>NC_031939.1 |Salmonella phage BPS15Q2, complete genome
+>NC_031940.1 |Salmonella phage 118970_sal3, complete genome
+>NC_031946.1 |Salmonella Phage 103203_sal5, complete genome
+>NC_031228.1 |Salmonella phage BP12C, complete genome
+>NC_031250.1 |Salmonella phage BP63, complete genome
+>NC_031258.1 |Salmonella phage BP12A, complete genome
+>NC_031271.1 |Salmonella phage BP12B, complete genome
+>NC_031019.1 |Enterobacteria phage UAB_Phi20, complete genome
+>NC_031026.1 |Salmonella phage phSE-2, complete genome
+>NC_031042.1 |Salmonella phage NR01, complete genome
+>NC_031065.1 |Salmonella phage vB_SnwM_CGG4-1, complete genome
+>NC_031128.1 |Salmonella phage vB_SalM_PM10, complete genome
+>NC_031129.1 |Salmonella phage SJ46, complete genome
+>NC_030919.1 |Salmonella phage 118970_sal4, complete genome
+>NC_029071.1 |Salmonella phage 36, complete genome
+>NC_029072.1 |Salmonella phage 19, complete genome
+>NC_029050.1 |Salmonella phage 21, complete genome
+>NC_029045.1 |Salmonella phage 37, complete genome
+>NC_029042.1 |Salmonella phage 38, complete genome
+>NC_028754.1 |Salmonella phage Shivani, complete genome
+>NC_029003.2 |Salmonella phage SEN1, complete genome
+>NC_029015.2 |Salmonella phage SEN4, complete genome
+>NC_028696.2 |Salmonella phage SEN22, complete genome
+>NC_028698.1 |Salmonella phage f18SE, complete genome
+>NC_028699.1 |Salmonella phage SEN34, complete genome
+>NC_028701.2 |Salmonella phage SEN5, complete genome
+>NC_027297.1 |Salmonella phage Stitch, complete genome
+>NC_027329.1 |Salmonella phage vB_SPuM_SP116, complete genome
+>NC_027360.1 |Enterobacteriaphage UAB_Phi87, complete genome
+>NC_027119.1 |Salmonella phage Det7, complete genome
+>NC_026607.2 |Salmonella phage STP4-a, complete genome
+>NC_026017.1 |Salmonella phage LSPA1, complete genome
+>NC_025442.1 |Salmonella phage Chi, complete genome
+>NC_025443.1 |Salmonella phage 9NA, complete genome
+>NC_024204.1 |Salmonella phage vB_SenS-Ent3 complete genome
+>NC_022768.1 |Salmonella phage Maynard, complete genome
+>NC_023608.1 |Salmonella phage vB_SenS-Ent2 complete genome
+>NC_022772.1 |Salmonella phage Marshall, complete genome
+>NC_022752.1 |Salmonella phage SETP13, complete genome
+>NC_022754.1 |Salmonella phage SETP7, complete genome
+>NC_021783.1 |Salmonella phage iEPS5, complete genome
+>NC_021772.1 |Salmonella phage FSL SP-058, complete genome
+>NC_021774.1 |Salmonella phage FSL SP-004, complete genome
+>NC_021775.1 |Salmonella phage FSL SP-031, complete genome
+>NC_021779.1 |Salmonella phage FSL SP-030, complete genome
+>NC_021780.1 |Salmonella phage FSL SP-088, complete genome
+>NC_021782.1 |Salmonella phage FSL SP-076, complete genome
+>NC_021317.1 |Salmonella phage L13, complete genome
+>NC_020414.1 |Enterobacteria phage UAB_Phi78, complete genome
+>NC_020416.1 |Salmonella phage S16, complete genome
+>NC_019530.1 |Salmonella phage PhiSH19, complete genome
+>NC_019539.1 |Salmonella phage vB_SenS-Ent1 complete genome
+>NC_019545.1 |Salmonella phage SPN3UB, complete genome
+>NC_019488.1 |Salmonella phage RE-2010, complete genome
+>NC_018843.1 |Salmonella phage SSU5, complete genome
+>NC_016763.1 |Salmonella phage SE2, complete genome
+>NC_016071.1 |Salmonella phage PVP-SE1, complete genome
+>NC_015938.1 |Salmonella phage 7-11, complete genome
+>NC_015296.1 |Salmonella phage Vi01, complete genome
+>NC_015269.1 |Enterobacteria phage SPC35, complete genome
+>NC_015271.1 |Salmonella phage Vi06 complete sequence
+>NC_014900.1 |Salmonella phage ST160, complete genome
+>NC_013059.1 |Salmonella phage c341, complete genome
+>NC_011976.1 |Salmonella phage epsilon34, complete genome
+>NC_011802.1 |Salmonella enterica bacteriophage SE1, complete genome
+>NC_010807.1 |Salmonella phage phiSG-JL2, complete genome
+>NC_010495.1 |Salmonella phage E1, complete genome
+>NC_010463.1 |Enterobacteria phage Fels-2, complete genome
+>NC_010391.1 |Salmonella phage Fels-1, complete genome
+>NC_010392.1 |Phage Gifsy-1, complete genome
+>NC_010393.1 |Phage Gifsy-2, complete genome
+>NC_006940.2 |Salmonella phage SS3e, complete genome
+>NC_006949.1 |Enterobacteria phage ES18, complete genome
+>NC_005841.1 |Enterobacteria phage ST104 DNA, complete genome
+>NC_004831.2 |Enterobacteria phage SP6, complete genome
+>NC_004775.2 |Enterobacteria phage epsilon15, complete genome
+>NC_004348.1 |Enterobacteria phage ST64T, complete genome
+>NC_004313.1 |Salmonella phage ST64B, complete genome
+>NC_002371.2 |Enterobacteria phage P22 virus, complete genome
+>MW722521.1 |Salmonella phage S9-5, complete genome
+>MW567727.1 |Salmonella phage STWB21, complete genome
+>MW416012.1 |Salmonella phage vB Seyj3-1, complete genome
+>MW544066.1 |Salmonella phage vB_SalP_TR2, complete genome
+>MW477799.1 |Salmonella phage vB_Se_STGO-35-1, complete genome
+>MW423797.1 |Salmonella phage vB Seyj1-1, complete genome
+>MW423798.1 |Salmonella phage vB STyj5-1, complete genome
+>MW355449.1 |Salmonella phage vB_SenS_BPS2, complete genome
+>MW355450.1 |Salmonella phage vB_SenAc_BPS6, complete genome
+>MW355451.1 |Salmonella phage vB_SenS_ER10, complete genome
+>MW355452.1 |Salmonella phage vB_SenS_ER11, complete genome
+>MW355453.1 |Salmonella phage vB_SenS_ER12, complete genome
+>MW355454.1 |Salmonella phage vB_SenS_ER13, complete genome
+>MW355455.1 |Salmonella phage vB_SenS_ER14, complete genome
+>MW355456.1 |Salmonella phage vB_SenS_ER15, complete genome
+>MW355457.1 |Salmonella phage vB_SenS_ER16, complete genome
+>MW355458.1 |Salmonella phage vB_SenS_ER17, complete genome
+>MW355459.1 |Salmonella phage vB_SenS_ER18, complete genome
+>MW355460.1 |Salmonella phage vB_SenS_ER19, complete genome
+>MW355461.1 |Salmonella phage vB_SenS_ER1, complete genome
+>MW355462.1 |Salmonella phage vB_SenS_ER20, complete genome
+>MW355463.1 |Salmonella phage vB_SenS_ER21, complete genome
+>MW355464.1 |Salmonella phage vB_SenS_ER22, complete genome
+>MW355465.1 |Salmonella phage vB_SenS_ER23, complete genome
+>MW355466.1 |Salmonella phage vB_SenS_ER2, complete genome
+>MW355467.1 |Salmonella phage vB_SenS_ER3, complete genome
+>MW355468.1 |Salmonella phage vB_SenS_ER4, complete genome
+>MW355469.1 |Salmonella phage vB_SenS_ER5, complete genome
+>MW355470.1 |Salmonella phage vB_SenS_ER6, complete genome
+>MW355471.1 |Salmonella phage vB_SenS_ER7, complete genome
+>MW355472.1 |Salmonella phage vB_SenS_ER8, complete genome
+>MW355473.1 |Salmonella phage vB_SenS_ER9, complete genome
+>MW355475.1 |Salmonella phage vB_SenAc_BPS3, complete genome
+>MW355476.1 |Salmonella phage vB_SenS_BPS4, complete genome
+>MW355477.1 |Salmonella phage vB_SenAc_BPS5, complete genome
+>MW355480.1 |Salmonella phage vB_SenP_ER25, complete genome
+>MW388005.1 |Salmonella phage SPHG3, complete genome
+>MW413353.1 |Salmonella phage SPHG1, complete genome
+>MW325771.1 |UNVERIFIED: Salmonella phage KM16, complete genome
+>MW296865.1 |Salmonella phage SP3_SHan-2021, complete genome
+>MT653137.1 |Salmonella phage S55, complete genome
+>MW021753.1 |Salmonella phage vB_SenM_AR2819, complete genome
+>MW021754.1 |Salmonella phage vB_SenM_FrontPhageNews, complete genome
+>MW021760.1 |Salmonella phage vB_SenM_SilasIsHot, complete genome
+>MW006474.1 |Salmonella phage GEC_vB_B1, complete genome
+>MW006475.1 |Salmonella phage GEC_vB_BS, complete genome
+>MW006476.1 |Salmonella phage GEC_vB_GOT, complete genome
+>MW006477.1 |Salmonella phage GEC_vB_MG, complete genome
+>MW006478.1 |Salmonella phage GEC_vB_N3, complete genome
+>MW006479.1 |Salmonella phage GEC_vB_N5, complete genome
+>MW006480.1 |Salmonella phage GEC_vB_N6, complete genome
+>MW006481.1 |Salmonella phage GEC_vB_N7, complete genome
+>MW006482.1 |Salmonella phage GEC_vB_NS7, complete genome
+>MW149275.1 |Salmonella phage vB_SalS_ABTNLsp9, complete genome
+>MW206381.1 |Salmonella phage SP76, complete genome
+>MW013502.1 |Salmonella virus L cI-40 13-am43, complete genome
+>MW013503.1 |Salmonella virus L cII-101, complete genome
+>MT311645.1 |Salmonella phage vB_Sen-E22, complete genome
+>MT932212.1 |Salmonella phage VSe13, complete genome
+>MT974436.1 |Salmonella phage ISTP3, complete genome
+>MT233524.1 |Salmonella phage vB_Sen_I1, complete genome
+>MT233525.1 |Salmonella phage vB_Sen_H9, complete genome
+>MT710307.1 |Salmonella phage pSal-SNUABM-04, complete genome
+>MT653143.1 |Salmonella phage 3sent1, complete genome
+>MT653144.1 |Salmonella phage 5sent1, complete genome
+>MT653145.1 |Salmonella phage 8sent65, complete genome
+>MT653146.1 |Salmonella phage 8sent1748, complete genome
+>MT663719.1 |Salmonella virus S144, complete genome
+>MT012729.1 |Salmonella phage vB_SenTO17, complete genome
+>MN445182.1 |Salmonella phage vB_SalS_SA001, complete genome
+>MN445183.1 |Salmonella phage vB_SalM_SA002, complete genome
+>MT677933.1 |Salmonella phage NBSal006, complete genome
+>MT677934.1 |Salmonella phage NBSal007, complete genome
+>MT774487.1 |Salmonella phage MG40, complete genome
+>MT261384.1 |Salmonella virus PAT1, complete genome
+>MT580116.1 |Salmonella phage 65FD, complete genome
+>MT580117.1 |Salmonella phage 66FD, complete genome
+>MT500539.1 |Salmonella virus STSR3, complete genome
+>MH181876.1 |Salmonella phage vB_SalM-LPSEYT, complete genome
+>MH523359.1 |Salmonella phage vB_SalM-LPST94, complete genome
+>MK907285.1 |Salmonella phage vB_SalM-LPST153, complete genome
+>CP051272.1 |Salmonella phage SW-70, complete genome
+>CP051275.1 |Salmonella phage SW-37, complete genome
+>CP051278.1 |Salmonella phage ST-87, complete genome
+>CP051279.1 |Salmonella phage ST-35, complete genome
+>CP051285.1 |Salmonella phage ST-32, complete genome
+>CP051288.1 |Salmonella phage ST-29, complete genome
+>MT004791.1 |Salmonella phage vB_SenS-3, complete genome
+>MT012730.1 |Salmonella phage vB_SenM-1, complete genome
+>MT074450.1 |Salmonella phage faergetype, complete genome
+>MT074460.1 |Salmonella phage bux, complete genome
+>MT074469.1 |Salmonella phage rabagast, complete genome
+>MT074472.1 |Salmonella phage bering, complete genome
+>MT074476.1 |Salmonella phage kage, complete genome
+>MT074478.1 |Salmonella phage moki, complete genome
+>MT074429.1 |Salmonella phage astrithr, complete genome
+>MT074430.1 |Salmonella phage pink, complete genome
+>MT074431.1 |Salmonella phage demigod, complete genome
+>MT074432.1 |Salmonella phage dunkel, complete genome
+>MT074433.1 |Salmonella phage slyngel, complete genome
+>MT074434.1 |Salmonella phage emiel, complete genome
+>MT074435.1 |Salmonella phage brorfarstad, complete genome
+>MT074436.1 |Salmonella phage yarpen, complete genome
+>MT074437.1 |Salmonella phage nenneke, complete genome
+>MT074438.1 |Salmonella phage rivia, complete genome
+>MT074439.1 |Salmonella phage birk, complete genome
+>MT074440.1 |Salmonella phage assan, complete genome
+>MT074441.1 |Salmonella phage brunost, complete genome
+>MT074442.1 |Salmonella phage ciri, complete genome
+>MT074443.1 |Salmonella phage zoltan, complete genome
+>MT074444.1 |Salmonella phage emhyr, complete genome
+>MT074445.1 |Salmonella phage renfri, complete genome
+>MT074446.1 |Salmonella phage triss, complete genome
+>MT074447.1 |Salmonella phage phagemcphageface, complete genome
+>MT074448.1 |Salmonella phage oldekolle, complete genome
+>MT074449.1 |Salmonella phage bombadil, complete genome
+>MT074451.1 |Salmonella phage wast, complete genome
+>MT074452.1 |Salmonella phage vaffelhjerte, complete genome
+>MT074453.1 |Salmonella phage misterkot, complete genome
+>MT074454.1 |Salmonella phage ende, complete genome
+>MT074455.1 |Salmonella phage beppo, complete genome
+>MT074456.1 |Salmonella phage polluks, complete genome
+>MT074457.1 |Salmonella phage rokbiter, complete genome
+>MT074458.1 |Salmonella phage fuchur, complete genome
+>MT074459.1 |Salmonella phage bastian, complete genome
+>MT074461.1 |Salmonella phage smaug, complete genome
+>MT074463.1 |Salmonella phage gmork, complete genome
+>MT074464.1 |Salmonella phage bobsandoy, complete genome
+>MT074465.1 |Salmonella phage oselot, complete genome
+>MT074466.1 |Salmonella phage atrejo, complete genome
+>MT074467.1 |Salmonella phage falkor, complete genome
+>MT074468.1 |Salmonella phage rutana, complete genome
+>MT074470.1 |Salmonella phage heyday, complete genome
+>MT074471.1 |Salmonella phage allotria, complete genome
+>MT074473.1 |Salmonella phage blauehaus, complete genome
+>MT074474.1 |Salmonella phage aagejoakim, complete genome
+>MT074475.1 |Salmonella phage dinky, complete genome
+>MT074477.1 |Salmonella phage barely, complete genome
+>MT074479.1 |Salmonella phage pertopsoe, complete genome
+>MT074480.1 |Salmonella phage maane, complete genome
+>MT074481.1 |Salmonella phage sidste, complete genome
+>MT074483.1 |Salmonella phage skrot, complete genome
+>MT074484.1 |Salmonella phage celemicas, complete genome
+>MN953776.1 |Salmonella phage chennai, complete genome
+>MN956514.1 |Salmonella phage L6jm, complete genome
+>MT001829.1 |Salmonella phage SE_PL, complete genome
+>MN227145.1 |Salmonella phage BPSELC-1, complete genome
+>MN871490.1 |UNVERIFIED: Salmonella phage SEzh_1, complete genome
+>MN871491.1 |UNVERIFIED: Salmonella phage Se-B, complete genome
+>MN871492.1 |UNVERIFIED: Salmonella phage Se-D, complete genome
+>MN871493.1 |UNVERIFIED: Salmonella phage Se-E, complete genome
+>MN871494.1 |UNVERIFIED: Salmonella phage Se-F, complete genome
+>MN871495.1 |UNVERIFIED: Salmonella phage Se-G, complete genome
+>MN871496.1 |UNVERIFIED: Salmonella phage Se-H, complete genome
+>MN871497.1 |UNVERIFIED: Salmonella phage Se-I, complete genome
+>MN871498.1 |UNVERIFIED: Salmonella phage Se-J, complete genome
+>MN871499.1 |UNVERIFIED: Salmonella phage Se-N, complete genome
+>MN871500.1 |UNVERIFIED: Salmonella phage Se-S, complete genome
+>MN871501.1 |UNVERIFIED: Salmonella virus Se-U, complete genome
+>MN871502.1 |UNVERIFIED: Salmonella phage SeHz-1, complete genome
+>MN871503.1 |UNVERIFIED: Salmonella virus SeLz-2, complete genome
+>MN871504.1 |UNVERIFIED: Salmonella phage SeTs-2, complete genome
+>MK759883.1 |Salmonella phage vB_SenS_SB15, complete genome
+>MK759884.1 |Salmonella phage vB_SenM_SB18, complete genome
+>KX649889.1 |Salmonella phage SE-W109, complete genome
+>MN580668.1 |Salmonella phage pSe_SNUABM_01, complete genome
+>MN336266.1 |Salmonella phage PIZ SAE-01E2, complete genome
+>MK249308.1 |Salmonella phage TS13, complete genome
+>MN026740.1 |Salmonella phage C2, complete genome
+>MN336264.1 |Salmonella phage vB_SenS-EnJE1, complete genome
+>MN481367.1 |Salmonella phage D1-2, complete genome
+>MN604407.1 |Salmonella phage ST-3, complete genome
+>MK249126.1 |Salmonella phage TS3, complete genome
+>LC507823.1 |Salmonella phage vB_StyS-sam DNA, complete genome
+>MN379739.1 |Salmonella phage 1-19, complete genome
+>MN379740.1 |Salmonella phage 8-19, complete genome
+>MN393078.1 |Salmonella virus VSe101, complete genome
+>MN393079.1 |Salmonella virus VSiA, complete genome
+>MK947458.1 |Salmonella phage vB_SenS_SB10, complete genome
+>MK947459.1 |Salmonella phage vB_SenS_SB13, complete genome
+>MK947460.1 |Salmonella phage vB_SenS_SB28, complete genome
+>MN197465.1 |Salmonella phage 2-3, complete genome
+>MN218190.1 |Salmonella phage 9-29, complete genome
+>MN218191.1 |Salmonella phage 1-29, complete genome
+>MN252582.1 |Salmonella phage LPST144, complete genome
+>MK931446.1 |Salmonella phage Shelanagig, complete genome
+>MN022787.1 |Salmonella virus VSe12, complete genome
+>MN026741.1 |Salmonella phage Th1, complete genome
+>MN066127.1 |Salmonella phage Matapan, complete genome
+>MN070121.2 |Salmonella phage Shemara, complete genome
+>MK867835.1 |Salmonella phage vB_SenS_SB9, complete genome
+>MK112901.1 |Salmonella virus KFS-SE2, complete genome
+>MK809530.1 |Salmonella phage vB_SenS_SB6, complete genome
+>MK773491.1 |Salmonella phage 7t3, complete genome
+>MK728824.1 |Salmonella phage Seabear, complete genome
+>MK728825.1 |Salmonella phage Sepoy, complete genome
+>MK599416.1 |Salmonella phage Akira, complete genome
+>MK673511.1 |Salmonella phage ZCSE2, complete genome
+>MK578530.1 |Salmonella phage vB_SenS_SB3, complete genome
+>MK479295.1 |Salmonella phage vB_SenS_SE1, complete genome
+>MK568062.1 |Salmonella phage LSE7621, complete genome
+>MH791395.1 |UNVERIFIED: Salmonella phage SeWh-1, complete genome
+>MH791396.1 |UNVERIFIED: Salmonella phage SeZq-1, complete genome
+>MH791402.1 |UNVERIFIED: Salmonella phage Segz_1, complete genome
+>MH791405.1 |UNVERIFIED: Salmonella phage SeSz-1, complete genome
+>MH791410.1 |UNVERIFIED: Salmonella phage Seszw_1, complete genome
+>MH791412.1 |UNVERIFIED: Salmonella phage SeSz-2, complete genome
+>MK393882.1 |Salmonella phage 3-29, complete genome
+>MK286578.1 |Salmonella phage Season12, complete genome
+>MK050846.2 |Salmonella phage Seafire, complete genome
+>MK080312.1 |Salmonella phage Astrid, complete genome
+>MK125141.1 |Salmonella phage Lumpael, complete genome
+>MG471392.1 |Salmonella phage BSP161, complete genome
+>MG280946.1 |Salmonella phage KFS-SE1, complete genome
+>MH992509.1 |Salmonella phage vB_SenS_phi135, complete genome
+>MK005300.1 |Salmonella phage STG2, complete genome
+>MH940212.1 |Salmonella phage PS5, complete genome
+>MH586730.1 |Salmonella phage Solent, complete genome
+>MH586731.1 |Salmonella phage Meda, complete genome
+>MH631453.1 |Salmonella phage Siskin, complete genome
+>MH631454.2 |Salmonella phage Sw2, complete genome
+>MH688040.1 |Salmonella phage Mooltan, complete genome
+>MH709120.1 |Salmonella phage SenASZ3, complete genome
+>MH709121.1 |Salmonella phage SenALZ1, complete genome
+>MH424443.1 |Salmonella virus VSe103, complete genome
+>MH424444.1 |Salmonella virus VSiP, complete genome
+>MH424445.1 |Salmonella virus VSt10, complete genome
+>MH424446.1 |Salmonella virus VSt472, complete genome
+>MH321493.1 |Salmonella phage Skate, complete genome
+>MH370358.1 |Salmonella phage S100, complete genome
+>MH370359.1 |Salmonella phage S101, complete genome
+>MH370360.1 |Salmonella phage S102, complete genome
+>MH370361.1 |Salmonella phage S103, complete genome
+>MH370362.1 |Salmonella phage S104, complete genome
+>MH370363.1 |Salmonella phage S106, complete genome
+>MH370364.1 |Salmonella phage S107, complete genome
+>MH370365.1 |Salmonella phage S111, complete genome
+>MH370366.1 |Salmonella phage S113, complete genome
+>MH370367.1 |Salmonella phage S114, complete genome
+>MH370368.1 |Salmonella phage S115, complete genome
+>MH370369.1 |Salmonella phage S116, complete genome
+>MH370370.1 |Salmonella phage S117, complete genome
+>MH370371.1 |Salmonella phage S118, complete genome
+>MH370372.1 |Salmonella phage S119, complete genome
+>MH370373.1 |Salmonella phage S120, complete genome
+>MH370374.1 |Salmonella phage S123, complete genome
+>MH370375.1 |Salmonella phage S124, complete genome
+>MH370376.1 |Salmonella phage S126, complete genome
+>MH370378.1 |Salmonella phage S131, complete genome
+>MH370379.1 |Salmonella phage S132, complete genome
+>MH370380.1 |Salmonella phage S133, complete genome
+>MH370381.1 |Salmonella phage S134, complete genome
+>MH370382.1 |Salmonella phage S135, complete genome
+>MH370383.1 |Salmonella phage S137, complete genome
+>MH370384.1 |Salmonella phage S138, complete genome
+>MH370385.1 |Salmonella phage S142, complete genome
+>MH370386.1 |Salmonella phage S147, complete genome
+>MH370387.1 |Salmonella phage S149, complete genome
+>MH382198.1 |Salmonella phage 3A_8767, complete genome
+>MF740800.1 |Salmonella phage vB_SenM_PA13076, complete genome
+>MH221128.1 |Salmonella phage STsAS, complete genome
+>MH221129.1 |Salmonella phage SPAsTU, complete genome
+>MG969404.1 |UNVERIFIED: Salmonella phage GE_vB_7A, complete genome
+>MG969405.1 |UNVERIFIED: Salmonella phage GE_vB_B1, complete genome
+>MG969406.1 |UNVERIFIED: Salmonella phage GE_vB_B3, complete genome
+>MG969407.1 |UNVERIFIED: Salmonella phage GE_vB_BS, complete genome
+>MG969408.1 |UNVERIFIED: Salmonella phage GE_vB_HIL, complete genome
+>MG969409.1 |UNVERIFIED: Salmonella phage GE_vB_M4, complete genome
+>MG969410.1 |UNVERIFIED: Salmonella phage GE_vB_M5, complete genome
+>MG969411.1 |UNVERIFIED: Salmonella phage GE_vB_MG, complete genome
+>MG969412.1 |UNVERIFIED: Salmonella phage GE_vB_N5, complete genome
+>MG969413.1 |UNVERIFIED: Salmonella phage GE_vB_N8, complete genome
+>MG969414.1 |UNVERIFIED: Salmonella phage GE_vB_NS7, complete genome
+>MG969415.1 |UNVERIFIED: Salmonella phage GE_vB_TR, complete genome
+>MG873442.1 |Salmonella phage SE131, complete genome
+>MG878892.2 |Salmonella phage vB_SpuP_Spp16, complete genome
+>KY787212.1 |Salmonella phage BSP22A, complete genome
+>KY787213.1 |Salmonella phage BSP101, complete genome
+>KY620117.1 |Salmonella phage BSPM4, complete genome
+>MG641885.1 |Salmonella phage PMBT28, complete genome
+>MG646668.1 |Salmonella phage BPS11T2, complete genome
+>MG646669.1 |Salmonella phage BPS17W1, complete genome
+>MG646670.1 |Salmonella phage BPS15S6, complete genome
+>MG646671.1 |Salmonella phage BPS17S6, complete genome
+>MG646672.1 |Salmonella phage BPS17L1, complete genome
+>MG428992.1 |Salmonella phage Mutine, complete genome
+>MG241338.1 |Salmonella phage YSP2, complete genome
+>MG251391.1 |Salmonella virus VSe11, complete genome
+>MG251392.1 |Salmonella virus VSe102, complete genome
+>KX776161.1 |Salmonella phage UPF_BP1, complete genome
+>MF957259.1 |Salmonella phage Melville, complete genome
+>KY114934.1 |Salmonella phage SP01, complete genome
+>MF158036.1 |Salmonella phage St161, complete genome
+>MF158037.1 |Salmonella phage St162, complete genome
+>KX826077.1 |Salmonella phage UPF_BP2, complete genome
+>KY630163.1 |Salmonella phage S8, complete genome
+>MF431252.1 |Salmonella phage vB_SenS_PVP-SE2, complete genome
+>MF370225.1 |Salmonella phage ST11, complete genome
+>KY979109.1 |Salmonella phage SHP1, complete genome
+>MF188997.1 |Salmonella phage vB_SalP_PM43, complete genome
+>KY926791.1 |Salmonella phage SE1 (in:Nonagvirus), complete genome
+>KY000003.1 |Salmonella phage STP07, complete genome
+>KY626162.1 |Salmonella phage Si3, complete genome
+>KY626163.1 |Salmonella phage SE40, complete genome
+>KY860935.1 |Salmonella phage LPST10, complete genome
+>KY176369.1 |Salmonella phage STP03, complete genome
+>KY657202.1 |Salmonella phage GJL01, complete genome
+>KY709687.1 |Salmonella phage 29485, complete genome
+>KY653237.1 |Salmonella phage alphaalpha, complete genome
+>KX987158.1 |Salmonella phage vB_SenS_Sasha, complete genome
+>KY002061.1 |Salmonella phage vB_SenS_Sergei, complete genome
+>KY379853.1 |Salmonella phage LPSE1, complete genome
+>KU760857.1 |Salmonella phage SJ46, complete genome
+>KT881477.1 |Salmonella phage fSE4S, complete genome
+>KX405002.1 |Salmonella phage BPS11Q3, complete genome
+>KX405003.1 |Salmonella phage BPS15Q2, complete genome
+>KU867307.1 |Salmonella phage vB_SnwM_CGG4-1, complete genome
+>KX438380.2 |Salmonella phage vB_SalM_PM10, complete genome
+>KX245012.1 |Salmonella phage GG32, complete genome
+>KX245013.1 |Salmonella phage MA12, complete genome
+>KU927491.1 |Salmonella phage 146851_sal5, complete genome
+>KU927492.1 |Salmonella phage 146851_sal4, complete genome
+>KU927493.2 |Salmonella phage 118970_sal3, complete genome
+>KU927494.1 |Salmonella Phage 103203_sal5, complete genome
+>KU927495.1 |Salmonella phage 103203_sal4, complete genome
+>KU927496.1 |Salmonella phage 101962B_sal5, complete genome
+>KU927497.2 |Salmonella phage 100268_sal2, complete genome
+>KU927498.1 |Salmonella phage 64795_sal4, complete genome
+>KU927500.1 |Salmonella phage 118970_sal1, complete genome
+>KX017520.1 |Salmonella phage 64795_sal3, complete genome
+>KX017521.1 |Salmonella phage 118970_sal2, complete genome
+>KR233164.1 |Salmonella phage NR01, complete genome
+>KU878967.1 |Salmonella phage 118970_sal4, complete genome
+>KU951146.1 |Salmonella phage f2SE, complete genome
+>KU951147.1 |Salmonella phage f3SE, complete genome
+>KX015770.1 |Salmonella phage phSE-2, complete genome
+>KX015771.1 |Salmonella phage phSE-5, complete genome
+>KU726251.1 |Enterobacteria phage SEGD1, complete genome
+>KM366096.1 |Salmonella phage BP12A, complete genome
+>KM366097.1 |Salmonella phage BP12B, complete genome
+>KM366098.1 |Salmonella phage BP12C, complete genome
+>KM366099.1 |Salmonella phage BP63, complete genome
+>KT962832.1 |Salmonella phage fSE1C, complete genome
+>KR091942.1 |Salmonella phage 18-India, complete genome
+>KR296684.1 |UNVERIFIED: Salmonella phage 19, complete genome
+>KR296685.1 |UNVERIFIED: Salmonella phage 21, complete genome
+>KR296686.1 |Salmonella phage 22, complete genome
+>KR296687.1 |Salmonella phage 25, complete genome
+>KR296688.1 |Salmonella phage 34, complete genome
+>KR296689.1 |Salmonella phage 35, complete genome
+>KR296690.1 |Salmonella phage 36, complete genome
+>KR296691.1 |Salmonella phage 37, complete genome
+>KR296692.1 |Salmonella phage 38, complete genome
+>KR296693.1 |UNVERIFIED: Salmonella phage 39, complete genome
+>KR296694.1 |Salmonella phage 40, complete genome
+>KR296695.1 |UNVERIFIED: Salmonella phage 41, complete genome
+>KT630644.2 |Salmonella phage SEN1, complete genome
+>KT630645.2 |Salmonella phage SEN4, complete genome
+>KT630646.2 |Salmonella phage SEN5, complete genome
+>KT630647.2 |Salmonella phage SEN8, complete genome
+>KT630648.2 |Salmonella phage SEN22, complete genome
+>KT630649.1 |Salmonella phage SEN34, complete genome
+>KR270151.1 |Salmonella phage f18SE, complete genome
+>KP010413.1 |Salmonella phage vB_SPuM_SP116, complete genome
+>KP797973.1 |Salmonella phage Det7, complete genome
+>KJ000058.2 |Salmonella phage STP4-a, complete genome
+>KP143763.1 |Salmonella phage Shivani, complete genome
+>KM236244.1 |Salmonella phage Stitch, complete genome
+>KM458633.1 |Salmonella phage Chi, complete genome
+>KM272358.1 |Salmonella phage LSPA1, complete genome
+>KJ802832.1 |Salmonella phage 9NA, complete genome
+>KF669653.1 |Salmonella phage Marshall, complete genome
+>KF669654.1 |Salmonella phage Maynard, complete genome
+>KF562864.1 |Salmonella phage SETP13, complete genome
+>KF562865.1 |Salmonella phage SETP7, complete genome
+>KC911856.1 |Salmonella phage SPC32H, complete genome
+>KC911857.1 |Salmonella phage SPC32N, complete genome
+>JX297445.1 |Salmonella phage vB_SenS_AG11, complete genome
+>KC139512.1 |Salmonella phage FSL SP-088, complete genome
+>KC139514.1 |Salmonella phage FSL SP-039, complete genome
+>KC139515.1 |Salmonella phage FSL SP-124, complete genome
+>KC139517.1 |Salmonella phage FSL SP-058, complete genome
+>KC139518.1 |Salmonella phage FSL SP-031, complete genome
+>KC139519.1 |Salmonella phage FSL SP-030, complete genome
+>KC139520.1 |Salmonella phage FSL SP-076, complete genome
+>KC139521.1 |Salmonella phage FSL SP-004, complete genome
+>KC677662.1 |Salmonella phage iEPS5, complete genome
+>KC832325.1 |Salmonella phage L13, complete genome
+>KC579452.1 |Enterobacteriophage phiKP26, complete genome
+>JQ691610.1 |Salmonella phage SPN9TCW, complete genome
+>GQ422450.1 |Enterobacteria phage UAB_Phi20, complete genome
+>GU595417.1 |Enterobacteria phage UAB_Phi78, complete genome
+>HQ331142.1 |Salmonella phage S16, complete genome
+>JN225449.1 |Enterobacteriaphage UAB_Phi87, complete genome
+>JF461087.1 |Salmonella phage FO1a, complete genome
+>JQ965645.1 |Salmonella phage SSU5, complete genome
+>JQ288021.1 |Salmonella phage SPN3UB, complete genome
+>JQ007353.1 |Salmonella phage SE2, complete genome
+>JN126049.1 |Salmonella phage PhiSH19, complete genome
+>GU070616.1 |Salmonella phage PVP-SE1, complete genome
+>HM997019.1 |Salmonella phage 7-11, complete genome
+>HQ406778.1 |Enterobacteria phage SPC35, complete genome
+>GU573886.1 |Salmonella phage ST160, complete genome
+>HM770079.1 |Salmonella phage RE-2010, complete genome
+>FJ000341.1 |Salmonella phage g341c, complete genome
+>EU570103.1 |Salmonella phage epsilon34, complete genome
+>EU547803.1 |Salmonella phage phiSG-JL2, complete genome
+>AY730274.2 |Salmonella phage SS3e, complete genome
+>AY150271.2 |Enterobacteria phage epsilon15, complete genome
+>BK000583.1 |TPA_inf: Enterobacteria phage P22 wild type, complete genome
+>AY055382.1 |Salmonella typhimurium phage ST64B complete sequence
+>AF527608.1 |Bacteriophage P22-pbi, complete sequence
+
+
+# Host: Taxid 562
+
+>NC_054637.1 |Escherichia coli Phage vB_EcoS-Sa179lw, complete genome
+>NC_054651.1 |Escherichia phage C1, complete genome
+>NC_053002.1 |Escherichia phage Utah, complete genome
+>NC_052653.1 |Escherichia phage vB_vPM_PD06, complete genome
+>NC_052654.1 |Escherichia phage vB_EcoM-Ro121c4YLVW, complete genome
+>NC_052655.1 |Escherichia phage alia, complete genome
+>NC_052656.1 |Escherichia phage anhysbys, complete genome
+>NC_052657.1 |Escherichia phage muut, complete genome
+>NC_052658.1 |Escherichia phage nepoznato, complete genome
+>NC_052659.1 |Escherichia phage nieznany, complete genome
+>NC_052660.1 |Escherichia phage tuntematon, complete genome
+>NC_052661.1 |Escherichia phage ukendt, complete genome
+>NC_052662.1 |Escherichia phage Mt1B1_P17, complete genome
+>NC_052663.1 |Escherichia phage VEcB, complete genome
+>NC_050154.1 |Escherichia phage D6, complete genome
+>NC_049941.1 |Stx2-converting phage Stx2a_WGPS2 proviral DNA, complete genome
+>NC_049942.1 |Escherichia phage JLK-2012, complete sequence
+>NC_049943.1 |Enterobacteria phage 2851, complete genome
+>NC_049944.1 |Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete genome
+>NC_049945.1 |Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete genome
+>NC_049951.1 |Enterobacteria phage O276, complete genome
+>NC_049917.1 |Escherichia phage Lys12581Vzw, complete genome
+>NC_049918.1 |Escherichia phage ArgO145, complete genome
+>NC_049919.1 |Escherichia phage SH2026Stx1, complete genome
+>NC_049923.1 |Stx2-converting phage Stx2a_WGPS9 proviral DNA, complete genome
+>NC_049924.1 |Stx2-converting phage Stx2a_F451 proviral DNA, complete genome
+>NC_049926.1 |Escherichia phage ECP1, complete genome
+>NC_049813.1 |Escherichia phage vB_EcoS-12210I, complete genome
+>NC_049814.1 |Shigella phage JK16, complete genome
+>NC_049815.1 |Escherichia phage tonn, complete genome
+>NC_049816.1 |Escherichia phage tunus, complete genome
+>NC_049817.1 |Escherichia phage tonnikala, complete genome
+>NC_049818.1 |Escherichia phage tonijn, complete genome
+>NC_049819.1 |Escherichia phage atuna, complete genome
+>NC_049822.1 |Escherichia phage vB_EcoS_G29-2, complete genome
+>NC_049823.1 |Escherichia phage herni, complete genome
+>NC_049824.1 |Escherichia phage vojen, complete genome
+>NC_049825.1 |Escherichia phage grams, complete genome
+>NC_049826.1 |Escherichia phage aaroes, complete genome
+>NC_049827.1 |Escherichia phage damhaus, complete genome
+>NC_049828.1 |Escherichia phage haarsle, complete genome
+>NC_049829.1 |Escherichia phage aalborv, complete genome
+>NC_049830.1 |Escherichia phage PGN590, complete genome
+>NC_049832.1 |Escherichia phage vB_EcoS-DELF2 DNA, complete genome
+>NC_049852.1 |Escherichia phage egaa, complete genome
+>NC_049853.1 |Escherichia phage Henu8, complete genome
+>NC_049341.1 |Escherichia phage 503458, complete genome
+>NC_049342.1 |Escherichia phage 500465-1, complete genome
+>NC_049343.1 |Escherichia phage 500465-2, complete genome
+>NC_049344.1 |Escherichia phage 520873, complete genome
+>NC_049427.1 |Escherichia phage FEC14, complete genome
+>NC_049457.1 |Escherichia phage vB_EcoM-12474III, complete genome
+>NC_049466.1 |Escherichia phage vB_EcoM_4HA13, complete genome
+>NC_048627.1 |Escherichia phage SP15 DNA, complete genome
+>NC_048731.1 |Escherichia phage fp01, complete genome
+>NC_048748.1 |Escherichia phage vB_EcoS_HdH2, complete genome
+>NC_048799.1 |Escherichia phage Mangalitsa, complete genome
+>NC_048818.1 |Escherichia virus VEc33, complete genome
+>NC_048845.1 |Escherichia phage flopper, complete genome
+>NC_047740.1 |Enterobacteria phage phiJLA23, complete genome
+>NC_047742.1 |Enterobacteria phage IME_EC2, complete genome
+>NC_047749.1 |Enterobacteria phage DT571/2, complete genome
+>NC_047754.1 |Escherichia phage APCEc03, complete genome
+>NC_047766.1 |Escherichia phage ECA2, complete genome
+>NC_047769.1 |Escherichia virus AAPEc6, complete genome
+>NC_047770.1 |Escherichia phage ESCO13, complete genome
+>NC_047776.1 |Escherichia phage ESCO5, complete genome
+>NC_047777.1 |Escherichia phage ZG49, complete genome
+>NC_047806.1 |Escherichia phage vB_EcoP_B, complete genome
+>NC_047807.1 |Escherichia phage vB_EcoP_C, complete genome
+>NC_047808.1 |Escherichia phage vB_EcoP_F, complete genome
+>NC_047809.1 |Escherichia phage vB_EcoP_K, complete genome
+>NC_047810.1 |Escherichia phage vB_EcoS-IME253, complete genome
+>NC_047812.1 |Escherichia phage vB_Ecos_CEB_EC3a, complete genome
+>NC_047820.1 |Escherichia phage vB_EcoS_ESCO41, complete genome
+>NC_047822.1 |Escherichia phage phiLLS, complete genome
+>NC_047828.1 |Escherichia phage vB_EcoS_SH2, complete genome
+>NC_047829.1 |Escherichia phage ST31, complete genome
+>NC_047830.1 |Escherichia phage ST32, complete genome
+>NC_047835.1 |Escherichia phage OSYSP, complete genome
+>NC_047867.1 |Enterobacteria phage T7M, complete genome
+>NC_047889.1 |Escherichia virus mutPK1A2, complete genome
+>NC_047890.1 |Escherichia phage PGT2, complete genome
+>NC_047893.1 |Escherichia phage DTL, complete genome
+>NC_047895.1 |Escherichia phage EG1, complete genome
+>NC_047899.1 |Escherichia virus VEc3, complete genome
+>NC_047923.1 |Escherichia phage HZ2R8, complete genome
+>NC_047927.1 |Escherichia phage YZ1, complete genome
+>NC_047938.1 |Escherichia phage SECphi27 genome assembly, complete genome: monopartite
+>NC_047942.1 |Escherichia phage Ebrios, complete genome
+>NC_047959.1 |Enterobacteria phage vB_EcoS_IME18, complete genome
+>NC_047960.1 |Enterobacteria phage vB_EcoS_IME347, complete genome
+>NC_047979.1 |Escherichia phage Gostya9, complete genome
+>NC_047984.1 |Escherichia phage vB_EcoP_S523, complete genome
+>NC_047996.1 |Escherichia phage Eco_BIFF, complete genome
+>NC_048002.1 |Escherichia phage SRT7, complete genome
+>NC_048023.1 |Escherichia virus Vec13, complete genome
+>NC_048063.1 |Escherichia phage LL2, complete genome
+>NC_048064.1 |Escherichia phage LL11, complete genome
+>NC_048073.1 |Escherichia phage FEC19, complete genome
+>NC_048078.1 |Escherichia phage N30, complete genome
+>NC_048079.1 |Escherichia phage C5, complete genome
+>NC_048082.1 |Enterobacteria phage vB_EcoP_IME390, complete genome
+>NC_048112.1 |Escherichia phage Skarpretter, complete genome
+>NC_048136.1 |Escherichia phage vB_EcoP-Ro45lw, complete genome
+>NC_048163.1 |Phage NC-A, complete genome
+>NC_048164.1 |Escherichia phage HZP2, partial genome
+>NC_048170.1 |Escherichia phage vB_EcoM_Goslar, complete genome
+>NC_048172.1 |Escherichia phage Minorna, complete genome
+>NC_048177.1 |Escherichia phage Lidtsur, complete genome
+>NC_048178.1 |Escherichia phage Sortsne, complete genome
+>NC_048186.1 |Escherichia phage vB_EcoM_KWBSE43-6, complete genome
+>NC_048193.1 |Escherichia phage vB_EcoP_PTXU04, complete genome
+>NC_048195.1 |Escherichia phage vB_EcoM_WFC, complete genome
+>NC_048196.1 |Escherichia phage vB_EcoM_Schickermooser, complete genome
+>NC_048202.1 |Escherichia phage vB_Eco_swan01 genome assembly, chromosome: I
+>NC_048208.1 |Enterobacteria phage vB_EcoS_IME542, complete genome
+>NC_042564.1 |Enterobacteria phage BF23 tRNA gene region
+>NC_041848.1 |Enterobacteria phage P2, complete genome
+>NC_041863.1 |Escherichia coli O157 typing phage 3, complete genome
+>NC_041864.1 |Escherichia coli O157 typing phage 6, complete genome
+>NC_041869.1 |Escherichia phage APCEc02, complete genome
+>NC_041871.1 |Escherichia phage Murica, complete genome
+>NC_041873.1 |Escherichia phage JMPW2, complete genome
+>NC_041874.1 |Escherichia phage JMPW1, complete genome
+>NC_041897.1 |Escherichia phage K1ind1, complete genome
+>NC_041898.1 |Escherichia phage K1ind2, complete genome
+>NC_041906.1 |Escherichia phage EC1-UPM, complete genome
+>NC_041919.1 |Escherichia phage CF2, complete genome
+>NC_041920.1 |Escherichia phage HP3, complete genome
+>NC_041926.1 |Escherichia phage vB_EcoM_ECOO78, complete genome
+>NC_041935.1 |Escherichia phage PA28, complete genome
+>NC_041936.1 |Escherichia phage ECD7, complete genome
+>NC_041937.1 |Escherichia phage V18, complete genome
+>NC_041979.1 |Escherichia coli O157 typing phage 1, complete genome
+>NC_041990.1 |Escherichia phage ST0, complete genome
+>NC_042043.1 |Escherichia phage SRT8, complete genome
+>NC_042046.1 |Escherichia phage C119, complete genome
+>NC_042057.1 |Enterobacteria phage DE3, complete genome
+>NC_042084.1 |Escherichia phage VB_EcoS-Golestan, complete genome
+>NC_042128.1 |Escherichia phage RCS47, complete genome
+>NC_042129.1 |Escherichia phage slur03, complete genome
+>NC_042130.1 |Escherichia phage slur04, complete genome
+>NC_031928.1 |Escherichia phage WG01, complete genome
+>NC_031934.1 |Escherichia phage MX01, complete genome
+>NC_031937.1 |Escherichia phage LM33_P1 genome assembly, chromosome: I
+>NC_031943.1 |Escherichia phage vB_EcoP_GA2A, complete genome
+>NC_031030.1 |Escherichia phage UFV-AREG1, complete genome
+>NC_031047.1 |Escherichia phage HY03, complete genome
+>NC_031050.1 |Enterobacteria phage vB_EcoS_NBD2, complete genome
+>NC_031081.1 |Escherichia phage Envy, complete genome
+>NC_031082.1 |Escherichia phage vB_EcoM_Alf5, complete genome
+>NC_031103.1 |Escherichia phage vB_EcoM-UFV13, complete genome
+>NC_031113.1 |Escherichia phage Gluttony, complete genome
+>NC_031114.1 |Escherichia phage 64795_ec1, complete genome
+>NC_029091.1 |Escherichia phage APCEc01, complete genome
+>NC_028776.1 |Enterobacteria phage CAjan, complete genome
+>NC_028808.2 |Escherichia phage SUSP1, complete genome
+>NC_028822.1 |Escherichia phage P483, complete genome
+>NC_028825.1 |Escherichia phage vB_EcoM_AYO145A, complete genome
+>NC_028831.1 |Escherichia phage slur01, complete genome
+>NC_028863.1 |Escherichia phage P694, complete genome
+>NC_028872.1 |Escherichia phage HY02, complete genome
+>NC_028881.1 |Enterobacteria phage vB_EcoM_VR5, complete genome
+>NC_028894.1 |Enterobacteria phage vB_EcoM_VR20, complete genome
+>NC_028896.1 |Escherichia phage pro147, complete genome
+>NC_028901.1 |Escherichia phage slur05, complete genome
+>NC_028903.1 |Escherichia phage 172-1, complete genome
+>NC_028925.1 |Enterobacteria phage vB_EcoM_VR25, complete genome
+>NC_028927.1 |Escherichia phage slur02, complete genome
+>NC_028935.2 |Escherichia phage SUSP2, complete genome
+>NC_028943.1 |Escherichia phage pro483, complete genome
+>NC_028957.1 |Enterobacteria phage vB_EcoM_VR26, complete genome
+>NC_028997.1 |Enterobacteria phage JenP2, complete genome
+>NC_029021.1 |Enterobacteria phage JenK1, complete genome
+>NC_029028.1 |Enterobacteria phage JenP1, complete genome
+>NC_028656.1 |Enterobacteria phage VT2phi_272, complete sequence
+>NC_028660.1 |Escherichia phage phi191, complete genome
+>NC_028448.1 |Escherichia phage slur14, complete genome
+>NC_028449.1 |Escherichia phage PA2, complete genome
+>NC_028248.1 |Escherichia phage slur16, complete genome
+>NC_027983.1 |Enterobacteria phage AR1 DNA, complete genome
+>NC_027995.1 |Escherichia phage vB_EcoM_ECO1230-10, complete genome
+>NC_027979.1 |Enterobacteria phage RB68, complete genome
+>NC_027984.1 |Stx2 converting phage vB_EcoP_24B, complete genome
+>NC_027993.1 |Escherichia phage K1G, complete genome
+>NC_027994.1 |Escherichia phage K1H, complete genome
+>NC_027330.1 |Escherichia phage ECBP5, complete genome
+>NC_027337.1 |Escherichia phage vB_EcoM-VpaE1, complete genome
+>NC_027356.1 |Enterobacteria phage DT57C, complete genome
+>NC_027364.1 |Escherichia phage PBECO 4, complete genome
+>NC_027369.1 |Escherichia phage EC6, complete genome
+>NC_027378.1 |Escherichia phage Seurat, complete genome
+>NC_027381.1 |Escherichia phage Pollock, complete genome
+>NC_027383.1 |Escherichia phage YD-2008.s, complete genome
+>NC_027387.1 |Escherichia phage CICC 80001, complete genome
+>NC_027395.1 |Phage vB_EcoP_SU10, complete genome
+>NC_021190.1 |Enterobacteria phage phi80, complete genome
+>NC_026014.1 |Enterobacteria phage P88, complete genome
+>NC_025830.1 |Escherichia phage Av-05, complete genome
+>NC_023693.1 |Enterobacteria phage phi92, complete genome
+>NC_025441.1 |Escherichia phage ECML-117, complete genome
+>NC_025445.1 |Enterobacteria phage J8-65, complete genome
+>NC_025446.1 |Escherichia phage ECML-4, complete genome
+>NC_025419.1 |Enterobacteria phage RB3, complete genome
+>NC_025425.1 |Enterobacteria phage GEC-3S complete genome
+>NC_025430.1 |Escherichia phage vB_EcoM-ep3, complete genome
+>NC_025447.1 |Escherichia phage 121Q, complete genome
+>NC_025448.1 |Enterobacteria phage RB27, complete genome
+>NC_025449.1 |Escherichia phage ECML-134, complete genome
+>NC_024783.1 |Enterobacteria phage EK99P-1, complete genome
+>NC_024784.1 |Escherichia phage bV_EcoS_AHS24, complete genome
+>NC_024789.1 |Escherichia phage bV_EcoS_AKS96, complete genome
+>NC_024790.1 |Escherichia phage vB_EcoP_PhAPEC7, complete genome
+>NC_024793.1 |Escherichia phage bV_EcoS_AHP42, complete genome
+>NC_024794.1 |Escherichia phage vB_EcoM_PhAPEC2, complete genome
+>NC_024379.1 |Escherichia phage PE3-1, complete genome
+>NC_024134.1 |Escherichia phage vB_EcoM_FFH2, complete genome
+>NC_024139.1 |Escherichia phage vB_EcoS_FFH1, complete genome
+>NC_024142.2 |Enterobacteria phage Bp4, complete genome
+>NC_024146.1 |Enterobacteria phage 9g, complete genome
+>NC_024125.2 |Escherichia phage e11/2, complete genome
+>NC_023743.1 |Escherichia phage phiEB49, complete genome
+>NC_023593.1 |Escherichia phage KBNP1711, complete genome
+>NC_022968.1 |Escherichia phage 4MG, complete genome
+>NC_022750.1 |Enterobacteria phage fiAA91-ss, complete genome
+>NC_022323.1 |Escherichia phage 2 JES-2013, complete genome
+>NC_021344.2 |Escherichia phage Lw1, complete genome
+>NC_020079.1 |Escherichia phage phAPEC8, complete genome
+>NC_019704.1 |Enterobacteria phage mEp237, complete genome
+>NC_019705.1 |Enterobacteria phage mEpX2, complete genome
+>NC_019706.1 |Enterobacteria phage mEp043 c-1, complete genome
+>NC_019707.1 |Enterobacteria phage M, complete genome
+>NC_019708.1 |Enterobacteria phage mEp235, complete genome
+>NC_019709.1 |Enterobacteria phage mEpX1, complete genome
+>NC_019710.1 |Enterobacteria phage HK140, complete genome
+>NC_019711.1 |Enterobacteria phage HK629, complete genome
+>NC_019714.1 |Enterobacteria phage HK446, complete genome
+>NC_019715.1 |Enterobacterial phage mEp234, complete genome
+>NC_019716.1 |Enterobacteria phage mEp460, complete genome
+>NC_019717.1 |Enterobacteria phage HK225, complete genome
+>NC_019718.1 |Enterobacteria phage vB_EcoS_Rogue1, complete genome
+>NC_019719.1 |Enterobacteria phage HK633, complete genome
+>NC_019720.1 |Enterobacterial phage mEp213, complete genome
+>NC_019721.1 |Enterobacterial phage mEp390, complete genome
+>NC_019723.1 |Enterobacteria phage HK630, complete genome
+>NC_019724.1 |Enterobacteria phage HK578, complete genome
+>NC_019767.1 |Enterobacteria phage HK544, complete genome
+>NC_019768.1 |Enterobacteria phage HK106, complete genome
+>NC_019769.1 |Enterobacteria phage HK542, complete genome
+>NC_019500.1 |Enterobacteria phage Bp7, complete genome
+>NC_019501.1 |Enterobacteria phage IME10, complete genome
+>NC_019503.1 |Enterobacteria phage ime09, complete genome
+>NC_019505.1 |Escherichia phage wV7, complete genome
+>NC_019517.1 |Enterobacteria phage vB_EcoM-FV3, complete genome
+>NC_019442.1 |Escherichia phage TL-2011c, complete genome
+>NC_019445.1 |Escherichia phage TL-2011b, complete genome
+>NC_019452.1 |Escherichia phage PhaxI, complete genome
+>NC_019399.1 |Enterobacteria phage vB_EcoM_ACG-C40, complete genome
+>NC_019403.1 |Enterobacteria phage vB_EcoP_ACG-C91, complete genome
+>NC_019404.1 |Enterobacteria phage vB_EcoS_ACG-M12, complete genome
+>NC_019419.2 |Enterobacteria phage JL1, complete genome
+>NC_019423.1 |Enterobacter phage IME11, complete genome
+>NC_018835.1 |Enterobacteria phage NJ01, complete genome
+>NC_018846.1 |Escherichia phage P13374, complete genome
+>NC_018854.1 |Escherichia phage ECBP1, complete genome
+>NC_018855.1 |Enterobacteria phage HX01, complete genome
+>NC_018859.1 |Escherichia phage ECBP2, complete genome
+>NC_017969.1 |Escherichia phage vB_EcoS_AKFV33, complete genome
+>NC_016570.1 |Escherichia phage vB_EcoM_CBA120, complete genome
+>NC_016158.1 |Escherichia phage HK639, complete genome
+>NC_016160.1 |Escherichia phage HK75, complete genome
+>NC_015249.1 |Enterobacteria phage 285P, complete genome
+>NC_014792.1 |Enterobacteria phage vB_EcoM-VR7, complete genome
+>NC_014662.1 |Enterobacteria phage CC31, complete genome
+>NC_014467.1 |Enterobacteria phage RB16, complete genome
+>NC_014260.1 |Enterobacteria phage IME08, complete genome
+>NC_013594.1 |Escherichia phage D108, complete genome
+>NC_012868.1 |Enterobacteria phage St-1, complete genome
+>NC_012749.1 |Enterobacteria phage WV8, complete genome
+>NC_012740.1 |Enterobacteria phage JSE, complete genome
+>NC_012741.1 |Enterobacteria phage JS10, complete genome
+>NC_012223.2 |Enterobacteria phage SSL2009a, complete genome
+>NC_011357.1 |Stx2-converting phage 1717, complete prophage genome
+>NC_011356.1 |Enterobacteria phage YYZ-2008, complete prophage genome
+>NC_011040.1 |Enterobacteria phage BA14, complete genome
+>NC_011041.1 |Escherichia coli bacteriophage rv5, complete sequence
+>NC_011042.1 |Enterobacteria phage EcoDS1, complete genome
+>NC_011045.1 |Enterobacteria phage 13a, complete genome
+>NC_010583.1 |Enterobacteria phage EPS7, complete genome
+>NC_010237.1 |Enterobacteria phage Min27, complete genome
+>NC_010324.1 |Enterobacteria phage phiEco32, complete genome
+>NC_010105.1 |Enterobacteria phage JS98, complete genome
+>NC_010106.1 |Enterobacteria phage phiEcoM-GJ1, complete genome
+>NC_009821.1 |Enterobacteria phage Phi1, complete genome
+>NC_009540.1 |Enterobacteria phage TLS, complete genome
+>NC_009514.1 |Phage cdtI DNA, complete genome
+>NC_008720.1 |Enterobacteria phage N4, complete genome
+>NC_008464.1 |Stx2-converting phage 86, complete genome
+>NC_008152.1 |Enterobacteria phage K1-5, complete genome
+>NC_007817.1 |Enterobacteria phage ID2 Moscow/ID/2001, complete genome
+>NC_007821.1 |Enterobacteria phage WA13, complete genome
+>NC_007856.1 |Enterobacteria phage ID18, complete genome
+>NC_007804.2 |Escherichia phage phiV10, complete genome
+>NC_007637.1 |Enterobacteria phage K1E, complete genome
+>NC_007603.1 |Enterobacteria phage RTP, complete genome
+>NC_007456.1 |Enterobacteria phage K1F, complete genome
+>NC_007291.1 |Enterobacteria phage JK06, complete genome
+>NC_005856.1 |Enterobacteria phage P1, complete genome
+>NC_005859.1 |Enterobacteria phage T5, complete genome
+>NC_005833.1 |Enterobacteria phage T1, complete genome
+>NC_005066.1 |Enterobacteria phage RB49, complete genome
+>NC_005056.1 |Escherichia phage Wphi, complete genome
+>NC_004928.1 |Enterobacteria phage RB69, complete genome
+>NC_004913.3 |Stx1 converting phage DNA, complete genome
+>NC_004914.3 |Stx2 converting phage II DNA, complete genome
+>NC_004813.1 |Enterobacteria phage BP-4795, complete genome
+>NC_003356.1 |Enterobacteria phage phiP27, complete genome
+>NC_003298.1 |Enterobacteria phage T3, complete genome
+>NC_002730.1 |Enterobacteria phage HK620, complete genome
+>NC_002167.1 |Enterobacteria phage HK97, complete genome
+>NC_000929.1 |Enterobacteria phage Mu, complete genome
+>NC_000902.1 |Enterobacteria phage VT2-Sakai, complete genome
+>NC_000866.4 |Enterobacteria phage T4, complete genome
+>NC_000924.1 |Enterobacteria phage 933W, complete genome
+>NC_001954.1 |Enterobacteria phage If1, complete genome
+>NC_001895.1 |Enterobacteria phage P2, complete genome
+>NC_001890.1 |Enterobacteria phage Qbeta, complete genome
+>NC_001416.1 |Enterobacteria phage lambda, complete genome
+>NC_001426.1 |Enterobacteria phage GA, complete genome
+>NC_001330.1 |Enterobacteria phage alpha3, complete genome
+>NC_001609.1 |Enterobacteria phage P4, complete genome
+>NC_001332.1 |Enterobacteria phage I2-2, complete genome
+>NC_002014.1 |Enterobacteria phage Ike, complete genome
+>NC_001604.1 |Enterobacteria phage T7, complete genome
+>NC_003287.2 |Enterobacteria phage M13, complete genome
+>MW883059.1 |Escherichia phage vB_EcoM_SYGD1, complete genome
+>MW883060.1 |Escherichia phage vB_EcoP_SYGE1, complete genome
+>MW883061.1 |Escherichia phage vB_EcoM_SYGMH1, complete genome
+>MW057918.1 |UNVERIFIED: Escherichia phage Msk, complete genome
+>MW722083.1 |Escherichia page ZX5, complete genome
+>MW602648.1 |Escherichia phage vB_EcoM_fHy-Eco03, complete genome
+>MW481326.1 |Escherichia phage vB_EcoM-Pr103Blw, complete genome
+>MW598258.1 |Escherichia phage U136B, complete genome
+>MT664721.1 |Escherichia phage vB_EcoM_APEC, complete genome
+>MW331437.1 |Escherichia phage phiWAO78-1, complete genome
+>MW286156.1 |Escherichia phage vB_EcoS-BECP10, complete genome
+>MW286157.1 |Escherichia phage vB_EcoM-BECP11, complete genome
+>MT944117.1 |Escherichia phage PNJ1809-36, complete genome
+>MW175414.1 |Escherichia virus VEc25, complete genome
+>MT427400.1 |Escherichia phage phi2013, complete genome
+>MT984581.1 |Escherichia phage T4, complete genome
+>MT740314.1 |Escherichia phage JEP1, complete genome
+>MT740315.1 |Escherichia phage JEP4, complete genome
+>MT764206.1 |Escherichia phage JEP6, complete genome
+>MT764207.1 |Escherichia phage JEP7, complete genome
+>MT764208.1 |Escherichia phage JEP8, complete genome
+>MT968995.1 |Escherichia phage vB_EcoM_WL-3, complete genome
+>MT932211.1 |Escherichia phage VEcB, complete genome
+>MT932213.1 |Escherichia phage VEc74, complete genome
+>MT951623.2 |Escherichia phage vB_EcoS_bov15_1, complete genome
+>MT833387.1 |Escherichia phage HF4s, complete genome
+>MT862763.1 |Escherichia phage vB_EcoP-U8, complete genome
+>MN715356.1 |Escherichia phage vB_EcoP_EcoN5, complete genome
+>MT813197.1 |Escherichia phage vB_EcoP_Kapi1, complete genome
+>MT884007.2 |Escherichia phage vb_EcoM_bov10K1, complete genome
+>MT884008.2 |Escherichia phage vb_EcoM_bov10K2, complete genome
+>MT225100.1 |Escherichia phage Lys8385Vzw, complete genome
+>MT225101.1 |Escherichia phage Lys19259Vzw, complete genome
+>MT496971.1 |Escherichia phage Mt1B1_P10, complete genome
+>MT833282.1 |Escherichia coli phage vB_EcoM_Shy, complete genome
+>MT833283.1 |Escherichia coli phage vB_EcoS_Ace, complete genome
+>MT884006.2 |Escherichia phage vb_EcoM_bov9_1, complete genome
+>MT884009.2 |Escherichia phage vb_EcoM_bov11CS3, complete genome
+>MT884010.2 |Escherichia phage vb_EcoM_bov22_2, complete genome
+>MT884011.2 |Escherichia phage vb_EcoM_bov25_3, complete genome
+>MT884012.2 |Escherichia phage vb_EcoS_bov11C2, complete genome
+>MT884013.2 |Escherichia phage vb_EcoS_bov16_1, complete genome
+>MT884015.2 |Escherichia phage vb_EcoS_bov25_1D, complete genome
+>MT711523.1 |Escherichia phage vB_EcoS_fFiEco02, complete genome
+>MT711524.1 |Escherichia phage vB_EcoS_fFiEco03, complete genome
+>MT711525.1 |Escherichia phage vB_EcoS_fKuEco01, complete genome
+>MT711526.1 |Escherichia phage vB_EcoS_fPoEco01, complete genome
+>MT711527.1 |Escherichia phage vB_EcoS_fTaEco01, complete genome
+>MT711528.1 |Escherichia phage vB_EcoS_fTaEco03, complete genome
+>MT542512.1 |Escherichia phage PhiV-1, complete genome
+>MF374379.1 |Escherichia phage DN1, complete genome
+>MT496969.1 |Escherichia phage Mt1B1_P3, complete genome
+>MT496970.1 |Escherichia phage Mt1B1_P17, complete genome
+>MT782071.1 |Escherichia phage JN02, complete genome
+>MT808983.1 |Escherichia phage DY1, complete genome
+>MN342150.1 |Escherichia phage vB_EcoM_3HA11, complete genome
+>MN342151.1 |Escherichia phage vB_EcoM_3HA14, complete genome
+>MN445184.1 |Escherichia phage vB_EcoA_4HA11, complete genome
+>MN445185.1 |Escherichia phage vB_EcoM_EC001, complete genome
+>MT478991.1 |Escherichia phage vB_EcoM_011D4, complete genome
+>MT478992.1 |Escherichia phage vB_EcoS_011D2, complete genome
+>MT478993.1 |Escherichia phage vB_EcoS_011D5, complete genome
+>MT533174.1 |Escherichia phage CJ20, complete genome
+>MN518893.1 |Escherichia virus LS3, complete genome
+>MN518894.1 |Escherichia virus LS2, complete genome
+>MT511058.1 |Escherichia phage vB_EcoD_SU57, complete genome
+>MN067430.1 |Escherichia phage vB_EcoP-Ro103C3lw, complete genome
+>MN117721.1 |Escherichia phage vB_EcoP_Bp7, complete genome
+>MN136198.1 |Escherichia phage vB_EcoM_4HA13, complete genome
+>MT611523.1 |Escherichia phage DK-13, complete genome
+>MT446386.1 |UNVERIFIED: Escherichia virus TH06, complete genome
+>MT446387.1 |UNVERIFIED: Escherichia virus TH09, complete genome
+>MT446388.1 |UNVERIFIED: Escherichia virus TH10, complete genome
+>MT446389.1 |UNVERIFIED: Escherichia virus TH11, complete genome
+>MT446390.1 |UNVERIFIED: Escherichia virus TH12, complete genome
+>MT446391.1 |UNVERIFIED: Escherichia virus TH13, complete genome
+>MT446392.1 |UNVERIFIED: Escherichia virus TH15, complete genome
+>MT446393.1 |UNVERIFIED: Escherichia virus TH16, complete genome
+>MT446394.1 |UNVERIFIED: Escherichia virus TH20, complete genome
+>MT446395.1 |UNVERIFIED: Escherichia virus TH21, complete genome
+>MT446396.1 |UNVERIFIED: Escherichia virus TH22, complete genome
+>MT446397.1 |UNVERIFIED: Escherichia virus TH23, complete genome
+>MT446398.1 |UNVERIFIED: Escherichia virus TH24, complete genome
+>MT446399.1 |UNVERIFIED: Escherichia virus TH25, complete genome
+>MT446400.1 |UNVERIFIED: Escherichia virus TH26, complete genome
+>MT446401.1 |UNVERIFIED: Escherichia virus TH27, complete genome
+>MT446402.1 |UNVERIFIED: Escherichia virus TH28, complete genome
+>MT446403.1 |UNVERIFIED: Escherichia virus TH29, complete genome
+>MT446404.1 |UNVERIFIED: Escherichia virus TH30, complete genome
+>MT446405.1 |UNVERIFIED: Escherichia virus TH32, complete genome
+>MT446406.1 |UNVERIFIED: Escherichia virus TH33, complete genome
+>MT446407.1 |UNVERIFIED: Escherichia virus TH34, complete genome
+>MT446408.1 |UNVERIFIED: Escherichia virus TH35, complete genome
+>MT446409.1 |UNVERIFIED: Escherichia virus TH37, complete genome
+>MT446410.1 |UNVERIFIED: Escherichia virus TH38, complete genome
+>MT446411.1 |UNVERIFIED: Escherichia virus TH40, complete genome
+>MT446412.1 |UNVERIFIED: Escherichia virus TH41, complete genome
+>MT446413.1 |UNVERIFIED: Escherichia virus TH42, complete genome
+>MT446414.1 |UNVERIFIED: Escherichia virus TH43, complete genome
+>MT446415.1 |UNVERIFIED: Escherichia virus TH44, complete genome
+>MT446416.1 |UNVERIFIED: Escherichia virus TH47, complete genome
+>MT446417.1 |UNVERIFIED: Escherichia virus TH49, complete genome
+>MT446418.1 |UNVERIFIED: Escherichia virus TH50, complete genome
+>MT446419.1 |UNVERIFIED: Escherichia virus TH53, complete genome
+>MT446420.1 |UNVERIFIED: Escherichia virus TH54, complete genome
+>MT446421.1 |UNVERIFIED: Escherichia virus TH55, complete genome
+>MT446422.1 |UNVERIFIED: Escherichia virus TH57, complete genome
+>MT446423.1 |UNVERIFIED: Escherichia virus TH58, complete genome
+>MT127619.1 |Escherichia phage PGN590, complete genome
+>MT465573.1 |Escherichia phage P1723, complete genome
+>CP053388.1 |Escherichia phage CMS-2020a, complete sequence
+>CP054387.1 |Escherichia phage CMS-2020a, complete genome
+>MT322327.1 |UNVERIFIED: Escherichia phage SSBS18_WS_10_728, complete genome
+>MK931297.1 |Escherichia phage vB_EcoP_3HA13, complete genome
+>MT150133.1 |Enterobacteria phage vB_EcoM_IME540, complete genome
+>MT176427.1 |Escherichia phage CJ19, complete genome
+>MT179807.1 |Escherichia phage vB_EcoM_IME537, complete genome
+>MN850631.1 |Escherichia phage mio, complete genome
+>MN864145.1 |Escherichia phage F2, complete genome
+>MN927225.1 |Escherichia phage vB_EcoS_XY1, complete genome
+>MN927226.1 |Escherichia phage vB_EcoS_XY2, complete genome
+>MN414250.1 |Escherichia phage RDN8.1, complete genome
+>MN850581.1 |Escherichia phage sortkaff, complete genome
+>MN850628.1 |Escherichia phage bob, complete genome
+>MN850564.1 |Escherichia phage humlepung, complete genome
+>MN850565.1 |Escherichia phage ukendt, complete genome
+>MN850566.1 |Escherichia phage garuso, complete genome
+>MN850567.1 |Escherichia phage grams, complete genome
+>MN850568.1 |Escherichia phage altidsur, complete genome
+>MN850569.1 |Escherichia phage vojen, complete genome
+>MN850570.1 |Escherichia phage mellemsur, complete genome
+>MN850571.1 |Escherichia phage nepoznato, complete genome
+>MN850572.1 |Escherichia phage aaroes, complete genome
+>MN850573.1 |Escherichia phage muut, complete genome
+>MN850574.1 |Escherichia phage kaaroe, complete genome
+>MN850575.1 |Escherichia phage rolling, complete genome
+>MN850576.1 |Escherichia phage ime, complete genome
+>MN850577.1 |Escherichia phage heid, complete genome
+>MN850578.1 |Escherichia phage nomo, complete genome
+>MN850579.1 |Escherichia phage mogra, complete genome
+>MN850580.1 |Escherichia phage momo, complete genome
+>MN850582.1 |Escherichia phage ityhuna, complete genome
+>MN850583.1 |Escherichia phage glasur, complete genome
+>MN850584.1 |Escherichia phage arall, complete genome
+>MN850585.1 |Escherichia phage skuden, complete genome
+>MN850586.1 |Escherichia phage orkinos, complete genome
+>MN850587.1 |Escherichia phage mistaenkt, complete genome
+>MN850588.1 |Escherichia phage sortregn, complete genome
+>MN850589.1 |Escherichia phage welsh, complete genome
+>MN850590.1 |Escherichia phage moha, complete genome
+>MN850591.1 |Escherichia phage aalborv, complete genome
+>MN850592.1 |Escherichia phage aldrigsur, complete genome
+>MN850593.1 |Escherichia phage inoa, complete genome
+>MN850594.1 |Escherichia phage flopper, complete genome
+>MN850595.1 |Escherichia phage naswa, complete genome
+>MN850596.1 |Escherichia phage tonn, complete genome
+>MN850597.1 |Escherichia phage isim, complete genome
+>MN850598.1 |Escherichia phage nieznany, complete genome
+>MN850599.1 |Escherichia phage lillemer, complete genome
+>MN850600.1 |Escherichia phage haarsle, complete genome
+>MN850601.1 |Escherichia phage inny, complete genome
+>MN850602.1 |Escherichia phage damhaus, complete genome
+>MN850603.1 |Escherichia phage pinkbiff, complete genome
+>MN850604.1 |Escherichia phage tunzivis, complete genome
+>MN850605.1 |Escherichia phage fjerdesal, complete genome
+>MN850606.1 |Escherichia phage tuinn, complete genome
+>MN850607.1 |Escherichia phage egaa, complete genome
+>MN850608.1 |Escherichia phage megetsur, complete genome
+>MN850609.1 |Escherichia phage dhaeg, complete genome
+>MN850610.1 |Escherichia phage andreotti, complete genome
+>MN850611.1 |Escherichia phage nataliec, complete genome
+>MN850612.1 |Escherichia phage magaca, complete genome
+>MN850613.1 |Escherichia phage tonnikala, complete genome
+>MN850614.1 |Escherichia phage adrianh, complete genome
+>MN850615.1 |Escherichia phage kvi, complete genome
+>MN850616.1 |Escherichia phage buks, complete genome
+>MN850617.1 |Escherichia phage forsur, complete genome
+>MN850618.1 |Escherichia phage tuntematon, complete genome
+>MN850619.1 |Escherichia phage finno, complete genome
+>MN850620.1 |Escherichia phage atuna, complete genome
+>MN850621.1 |Escherichia phage dhabil, complete genome
+>MN850622.1 |Escherichia phage mobillu, complete genome
+>MN850623.1 |Escherichia phage sortsyn, complete genome
+>MN850624.1 |Escherichia phage usur, complete genome
+>MN850625.1 |Escherichia phage smaasur, complete genome
+>MN850626.1 |Escherichia phage nimi, complete genome
+>MN850627.1 |Escherichia phage pangalan, complete genome
+>MN850629.1 |Escherichia phage mckay, complete genome
+>MN850630.1 |Escherichia phage naam, complete genome
+>MN850632.1 |Escherichia phage alia, complete genome
+>MN850633.1 |Escherichia phage allfine, complete genome
+>MN850634.1 |Escherichia phage tinuso, complete genome
+>MN850635.1 |Escherichia phage bumzen, complete genome
+>MN850636.1 |Escherichia phage dune, complete genome
+>MN850637.1 |Escherichia phage warpig, complete genome
+>MN850638.1 |Escherichia phage tunus, complete genome
+>MN850639.1 |Escherichia phage radambza, complete genome
+>MN850640.1 |Escherichia phage herni, complete genome
+>MN850641.1 |Escherichia phage tonijn, complete genome
+>MN850642.1 |Escherichia phage navn, complete genome
+>MN850643.1 |Escherichia phage tiwna, complete genome
+>MN850644.1 |Escherichia phage ekra, complete genome
+>MN850645.1 |Escherichia phage outra, complete genome
+>MN850646.1 |Escherichia phage nom, complete genome
+>MN850647.1 |Escherichia phage tootiki, complete genome
+>MN850648.1 |Escherichia phage anhysbys, complete genome
+>MN850649.1 |Escherichia phage nomine, complete genome
+>MN850650.1 |Escherichia phage jat, complete genome
+>MN850651.1 |Escherichia phage moskry, complete genome
+>MN895434.1 |Escherichia phage teqhad, complete genome
+>MN895435.1 |Escherichia phage teqhal, complete genome
+>MN895436.1 |Escherichia phage teqsoen, complete genome
+>MN895437.1 |Escherichia phage teqskov, complete genome
+>MN895438.1 |Escherichia phage teqdroes, complete genome
+>MN882349.1 |Escherichia virus Ec_Makalu_003, complete genome
+>MN882542.1 |Escherichia phage JN01,complete genome
+>MN894885.1 |Escherichia virus Ec_Makalu_001, complete genome
+>MN481365.1 |Escherichia phage vB_EcoP_PHB19, complete genome
+>MN481366.1 |Escherichia phage vB_EcoP_PHB20, complete genome
+>LC516895.1 |Escherichia phage vB_EcoS-DELF2 DNA, complete genome
+>MN508614.1 |UNVERIFIED: Escherichia phage ES12, complete genome
+>MN508615.2 |Escherichia phage ES17, complete genome
+>MN508616.1 |UNVERIFIED: Escherichia phage ES19, complete genome
+>MN508617.1 |UNVERIFIED: Escherichia phage ES21, complete genome
+>MN508618.1 |UNVERIFIED: Escherichia phage ES26, complete genome
+>MN648445.1 |Escherichia phage FP43, complete genome
+>MN709127.1 |Escherichia virus Ec_Makalu_002, complete genome
+>MK907226.1 |Escherichia phage vB_EcoS-12210I, complete genome
+>MK907227.1 |Escherichia phage vB_EcoS-12210III, complete genome
+>MK907228.1 |Escherichia phage vB_EcoS-12397I, complete genome
+>MK907229.1 |Escherichia phage vB_EcoS-12397II, complete genome
+>MK907230.1 |Escherichia phage vB_EcoS-12397III, complete genome
+>MK907231.1 |Escherichia phage vB_EcoS-12397IV, complete genome
+>MK907232.1 |UNVERIFIED: Escherichia phage vB_EcoS-12397V, complete genome
+>MK907233.1 |Escherichia phage vB_EcoS-12469I, complete genome
+>MK907234.1 |UNVERIFIED: Escherichia phage vB_EcoS-12469II, complete genome
+>MK907235.1 |Escherichia phage vB_EcoS-12469III, complete genome
+>MK907236.1 |Escherichia phage vB_EcoM-12474II, complete genome
+>MK907237.1 |Escherichia phage vB_EcoM-12474III, complete genome
+>MK907238.1 |Escherichia phage vB_EcoM-12474IV, complete genome
+>MK907239.1 |Escherichia phage vB_EcoM-12474V, complete genome
+>MK907240.1 |Escherichia phage vB_EcoS-2004III, complete genome
+>MK907241.1 |Escherichia phage vB_EcoS-2004IV, complete genome
+>MK907242.1 |UNVERIFIED: Escherichia phage vB_EcoS-2004V, complete genome
+>MK907243.1 |Escherichia phage vB_EcoS-2005III, complete genome
+>MK907244.1 |Escherichia phage vB_EcoS-2005IV, complete genome
+>MK907245.1 |Escherichia phage vB_EcoS-2006III, complete genome
+>MK907246.1 |Escherichia phage vB_EcoS-2006IV, complete genome
+>MK907247.1 |Escherichia phage vB_EcoS-2006V, complete genome
+>MK907248.1 |Escherichia phage vB_EcoS-25988I, complete genome
+>MK907249.1 |Escherichia phage vB_EcoS-25988IV, complete genome
+>MK907250.1 |UNVERIFIED: Escherichia phage vB_EcoS-25988V, complete genome
+>MK907251.1 |Escherichia phage vB_EcoS-26020I, complete genome
+>MK907252.1 |Escherichia phage vB_EcoS-26020II, complete genome
+>MK907253.1 |Escherichia phage vB_EcoS-26020III, complete genome
+>MK907254.1 |Escherichia phage vB_EcoS-26020IV, complete genome
+>MK907255.1 |Escherichia phage vB_EcoS-26020V, complete genome
+>MK907256.1 |UNVERIFIED: Escherichia phage vB_EcoS-26046I, complete genome
+>MK907257.1 |Escherichia phage vB_EcoS-26046II, complete genome
+>MK907258.1 |UNVERIFIED: Escherichia phage vB_EcoS-26046III, complete genome
+>MK907259.1 |Escherichia phage vB_EcoS-26046IV, complete genome
+>MK907260.1 |Escherichia phage vB_EcoS-26046V, complete genome
+>MK907261.1 |Escherichia phage vB_EcoS-26047I, complete genome
+>MK907262.1 |Escherichia phage vB_EcoS-26047II, complete genome
+>MK907264.1 |Escherichia phage vB_EcoS-26174II, complete genome
+>MK907265.1 |UNVERIFIED: Escherichia phage vB_EcoS-26174III, complete genome
+>MK907266.1 |UNVERIFIED: Escherichia phage vB_EcoS-26174IV, complete genome
+>MK907267.1 |Escherichia phage vB_EcoS-26175I, complete genome
+>MK907268.1 |Escherichia phage vB_EcoS-26175II, complete genome
+>MK907269.1 |Escherichia phage vB_EcoS-26175III, complete genome
+>MK907270.1 |Escherichia phage vB_EcoS-26175IV, complete genome
+>MK907271.1 |Escherichia phage vB_EcoS-26175V, complete genome
+>MK907272.1 |Escherichia phage vB_EcoS-2862I, complete genome
+>MK907273.1 |Escherichia phage vB_EcoS-2862II, complete genome
+>MK907274.1 |Escherichia phage vB_EcoS-2862III, complete genome
+>MK907275.1 |Escherichia phage vB_EcoS-2862IV, complete genome
+>MK907276.1 |Escherichia phage vB_EcoS-2862V, complete genome
+>MN187550.1 |Escherichia phage phiv142-3, complete genome
+>MN340231.1 |Escherichia phage phiv205-1, complete genome
+>MN164484.1 |Escherichia virus ECH1, complete genome
+>MN510331.1 |Escherichia phage vB_EcoP_PR_Kaz2018, complete genome
+>MN218775.1 |Escherichia virus ECG4, complete genome
+>MN316588.1 |Escherichia virus VEc33, complete genome
+>MK791318.1 |Escherichia phage Lilledu, complete genome
+>MK962749.1 |Shigella phage CM1, complete genome
+>MK962750.1 |Shigella phage CM8, complete genome
+>MK962751.1 |Shigella phage JK16, complete genome
+>MK962752.1 |Shigella phage JK23, complete genome
+>MK962753.1 |Shigella phage JK32, complete genome
+>MK962754.1 |Shigella phage JK36, complete genome
+>MK962755.1 |Shigella phage JK38, complete genome
+>MK962756.1 |Shigella phage JK42, complete genome
+>MK962757.1 |Shigella phage JK45, complete genome
+>MK962758.1 |Shigella phage JK55, complete genome
+>MK903277.1 |Escherichia phage Pisces, complete genome
+>MK903279.1 |Escherichia phage Peacock, complete genome
+>MK903281.1 |Escherichia phage Penshu1, complete genome
+>MK903282.1 |Escherichia phage Mansfield, complete genome
+>MK931438.1 |Escherichia phage Schulenburg, complete genome
+>MK931439.1 |Escherichia phage Sciku, complete genome
+>MK931441.1 |Escherichia phage Snoke, complete genome
+>MN045229.1 |Escherichia phage Mangalitsa, complete genome
+>MN045231.1 |Escherichia phage Paul, complete genome
+>MN153797.1 |Escherichia virus T1 isolate 22, complete genome
+>MK931440.1 |Escherichia phage Shashou, complete genome
+>MN019128.1 |Escherichia phage Henu7, complete genome
+>MN055691.1 |Escherichia phage Henu8, complete genome
+>MN022785.1 |Escherichia virus VEc20, complete genome
+>MN090155.1 |Escherichia phage vB_EcoS_PHB17, complete genome
+>MN080711.1 |Escherichia phage vB_Eco_D226, complete genome
+>MK817115.1 |Escherichia phage vB_EcoM_phAPEC6, complete genome
+>MK977694.1 |Escherichia phage vB_EcoM-Sa45lw, complete genome
+>MN067333.1 |Escherichia phage Lys12581Vzw, complete genome
+>MK883717.1 |Eschericha phage vB_EcoM-ECP26, complete genome
+>MK883718.1 |Escherichia phage vB_EcoM-ECP32, complete genome
+>MK886800.1 |Escherichia phage EcNP1, complete genome
+>MK728541.1 |Escherichia phage CEC_Kaz_2018, complete genome
+>MK629526.1 |Escherichia phage Lilleen, complete genome
+>MK552105.1 |Escherichia phage Jahat_MG145, complete genome
+>MK629525.1 |Escherichia phage Lilleput, complete genome
+>MK629527.1 |Escherichia phage Lilleven, complete genome
+>MK629528.1 |Escherichia phage Lidtsur, complete genome
+>MK629529.1 |Escherichia phage Lilleto, complete genome
+>MK651787.1 |Escherichia phage Sortsne, complete genome
+>MK672798.1 |Escherichia phage Skure, complete genome
+>MH051333.1 |Escherichia phage vB_EcoM-Ro121c4YLVW, complete genome
+>MK310183.1 |UNVERIFIED: Phage NC-B, complete genome
+>AP019559.1 |Escherichia phage SP15 DNA, complete genome
+>MH051334.1 |Escherichia phage vB_EcoS-Ro145c2YLVW, complete genome
+>MH051335.1 |Escherichia phage vB_EcoM-Ro157lw, complete genome
+>MH571750.1 |Escherichia phage vB_EcoM-Ro111lw, complete genome
+>MK373770.1 |Escherichia phage vB_EcoP_WFI101126, complete genome
+>MK373771.1 |Escherichia phage vB_EcoP_R4596, complete genome
+>MK373772.1 |Escherichia phage vB_EcoP_PTXU04, complete genome
+>MK373773.1 |Escherichia phage vB_EcoP_KAW1A4500, complete genome
+>MK373774.1 |Escherichia phage vB_EcoM_WFL6982, complete genome
+>MK373775.1 |Escherichia phage vB_EcoM_WFK, complete genome
+>MK373777.1 |Escherichia phage vB_EcoM_WFC, complete genome
+>MK373778.1 |Escherichia phage vB_EcoM_WFbE185, complete genome
+>MK373779.1 |Escherichia phage vB_EcoM_G9062, complete genome
+>MK373780.1 |Escherichia phage vB_EcoM_HdK5, complete genome
+>MK373781.1 |Escherichia phage vB_EcoM_KAW1E185, complete genome
+>MK373782.1 |Escherichia phage vB_EcoM_KAW3E185, complete genome
+>MK373783.1 |Escherichia phage vB_EcoM_KWBSE43-6, complete genome
+>MK373784.1 |Escherichia phage vB_EcoM_MM02, complete genome
+>MK373785.1 |Escherichia phage vB_EcoM_OE5505, complete genome
+>MK373786.1 |Escherichia phage vB_EcoM_R5505, complete genome
+>MK373787.1 |Escherichia phage vB_EcoM_G8, complete genome
+>MK373788.1 |Escherichia phage vB_EcoM_Schickermooser, complete genome
+>MK373789.1 |Escherichia phage vB_EcoS_PTXU06, complete genome
+>MK373790.1 |Escherichia phage vB_EcoS_WF5505, complete genome
+>MK373791.1 |Escherichia phage vB_EcoS_WFI, complete genome
+>MK373792.1 |Escherichia phage vB_EcoS_VAH1, complete genome
+>MK373793.1 |Escherichia phage vB_EcoS_MM01, complete genome
+>MK373794.1 |Escherichia phage vB_EcoS_HdK1, complete genome
+>MK373795.1 |Escherichia phage vB_EcoS_HdSG1, complete genome
+>MK373796.1 |Escherichia phage vB_EcoS_HdH2, complete genome
+>MK373797.1 |Escherichia phage vB_EcoS_HASG4, complete genome
+>MK373798.1 |Escherichia phage vB_EcoS_G29-2, complete genome
+>MK373799.1 |Escherichia phage vB_EcoS_EASG3, complete genome
+>MK482688.1 |Escherichia phage vB_EcoM_LMP25, complete genome
+>MK482689.1 |Escherichia phage vB_EcoM_LMP33, complete genome
+>MK562504.1 |Enterobacteria phage CHB7, complete genome
+>MG252615.1 |Escherichia phage vB_EcoS_HSE2, complete genome
+>MK310184.1 |Phage NC-G, complete genome
+>MK524178.1 |Escherichia phage PHB12, complete genome
+>MK598851.1 |Escherichia phage Minorna, complete genome
+>MK327928.1 |Escherichia phage vB_EcoM_G2133, complete genome
+>MK327929.1 |Escherichia phage D5505, complete genome
+>MK327930.1 |Escherichia phage EdH4, complete genome
+>MK327931.1 |Escherichia phage vB_EcoM_G17, complete genome
+>MK327932.1 |Escherichia phage vB_EcoM_G2248, complete genome
+>MK327933.1 |Escherichia phage vB_EcoM_G2285, complete genome
+>MK327934.1 |Escherichia phage vB_EcoM_G2469, complete genome
+>MK327935.1 |Escherichia phage vB_EcoM_G2494, complete genome
+>MK327936.1 |Escherichia phage vB_EcoM_G2540, complete genome
+>MK327937.1 |Escherichia phage vB_EcoM_G10400, complete genome
+>MK327938.1 |Escherichia phage vB_EcoM_Goslar, complete genome
+>MK327939.1 |Escherichia phage vB_EcoM_G4498, complete genome
+>MK327940.1 |Escherichia phage vB_EcoM_G29, complete genome
+>MK327941.1 |Escherichia phage vB_EcoM_G37-3, complete genome
+>MK327942.1 |Escherichia phage vB_EcoM_G50, complete genome
+>MK327943.1 |Escherichia phage vB_EcoM_G53, complete genome
+>MK327944.1 |Escherichia phage vB_EcoM_G2540-3, complete genome
+>MK327945.1 |Escherichia phage vB_EcoM_G4500, complete genome
+>MK327946.1 |Escherichia phage vB_EcoM_G4507, complete genome
+>MK327947.1 |Escherichia phage vB_EcoM_G5211, complete genome
+>MK524176.1 |Escherichia phage PHB11, complete genome
+>MK524177.1 |Escherichia phage PHB10, complete genome
+>MK542015.1 |Escherichia phage ZCEC5, complete genome
+>MK310182.1 |Phage NC-A, complete genome
+>MG852086.2 |Escherichia phage vB_EcoS-Ro145clw, complete genome
+>MH791400.1 |UNVERIFIED: Escherichia phage EcSzw-2, complete genome
+>MH791409.1 |UNVERIFIED: Escherichia phage EcWhh-1, complete genome
+>MH791411.1 |UNVERIFIED: Escherichia phage Ecwhy_1, complete genome
+>MH791413.1 |UNVERIFIED: Escherichia phage EcSzw_1, complete genome
+>MG867727.1 |Escherichia phage vB_EcoM-G28, complete genome
+>MK234886.1 |Escherichia phage AnYang, complete genome
+>MK372342.1 |Enterobacteria phage vB_EcoS_IME542, complete genome
+>MK295203.1 |Escherichia phage vB_EcoM_005, complete genome
+>MK213795.1 |Escherichia phage MS2, complete genome
+>MK213796.1 |Escherichia phage T1, complete genome
+>MK301532.1 |Escherichia phage vB_EcoP-Ro45lw, complete genome
+>CP025874.1 |Escherichia phage 503458, complete genome
+>CP025887.1 |Escherichia phage 503046, complete genome
+>CP025900.1 |Escherichia phage 500465-1, complete genome
+>CP025901.1 |Escherichia phage 500465-2, complete genome
+>CP025902.1 |Escherichia phage 500465-3, complete genome
+>CP025907.1 |Escherichia phage 204576, complete genome
+>CP025923.1 |Escherichia phage 520873, complete genome
+>MK105855.1 |Escherichia phage Skarpretter, complete genome
+>MK138527.1 |Escherichia phage vB_EcoS_PNS1, complete genome
+>MK165087.1 |Escherichia phage BRET, complete genome
+>MH427377.1 |Escherichia phage vB_EcoM Sa157lw, complete genome
+>MH717096.1 |Escherichia phage N7, complete genome
+>MH717097.1 |Escherichia phage C1, complete genome
+>MH992122.1 |UNVERIFIED: Escherichia phage OLB35, complete genome
+>MH992123.1 |UNVERIFIED: Escherichia phage OLB145, complete genome
+>MH992510.1 |Escherichia phage vB_EcoM_DalCa, complete genome
+>MK047717.1 |Escherichia phage p000v, complete genome
+>MK047718.1 |Escherichia phage p000y, complete genome
+>MH445380.1 |Escherichia virus P1 isolate transconjugant 2(L-II), complete genome
+>MH445381.1 |Escherichia virus P1, complete genome
+>MH717098.1 |Escherichia phage N30, complete genome
+>MH717099.1 |Escherichia phage C5, complete genome
+>MH751506.1 |Escherichia phage T2, complete genome
+>MH779619.1 |Enterobacteria phage vB_EcoP_IME390, complete genome
+>MH816848.1 |Escherichia phage vB_vPM_PD06, complete genome
+>MH816966.1 |Escherichia phage FEC19, complete genome
+>MH837626.1 |Escherichia phage vB_vPM_PD112, complete genome
+>KT184308.1 |Enterobacteria phage Aplg8, complete genome
+>KT184309.1 |Enterobacteria phage ATK47, complete genome
+>KT184310.1 |Enterobacteria phage ATK48, complete genome
+>KT184311.1 |Enterobacteria phage GiZh, complete genome
+>KT184312.1 |Enterobacteria phage Kha5h, complete genome
+>KT184313.1 |Enterobacteria phage KhF1, complete genome
+>KT184314.1 |Enterobacteria phage KhF2, complete genome
+>KT184315.1 |Enterobacteria phage KhF3, complete genome
+>KT184316.1 |Enterobacteria phage XTG1, complete genome
+>MH669274.1 |Escherichia phage PD38, complete genome
+>MH675927.1 |Escherichia phage vB_vPM_PD114, complete genome
+>MH717709.1 |Escherichia phage LL2, complete genome
+>MH719082.1 |Escherichia phage vB_EcoM_IME392, complete genome
+>MH729818.1 |Escherichia phage LL11, complete genome
+>MH733496.1 |Escherichia phage PGN829.1, complete genome
+>MH745368.2 |Escherichia phage fp01, complete genome
+>MH752840.1 |Escherichia phage vB_EcoM-Pr121LW, complete genome
+>MH547045.1 |Enterobacteria phage O276, complete genome
+>MH550421.1 |Enterobacteria phage T6, complete genome
+>MH706966.1 |Enterobacteria phage mEp021, complete genome
+>MH560358.1 |Escherichia virus KFS-EC, complete genome
+>MH400309.1 |Escherichia phage Vec13, complete genome
+>MH553563.1 |Enterobacteria phage RB18, complete genome
+>MH355584.1 |Escherichia phage vB_EcoM_JB75, complete genome
+>MH362766.1 |Escherichia phage Halfdan, complete genome
+>MH370477.2 |Escherichia phage SRT7, complete genome
+>MH383160.1 |Escherichia phage UB, complete genome
+>MH494197.1 |Escherichia phage CMSTMSU, complete genome
+>MH031343.1 |Escherichia phage vB_EcoP_S523, complete genome
+>MH285980.1 |Escherichia phage Eco_BIFF, complete genome
+>MH358458.1 |Escherichia phage phi G17, complete genome
+>MH359124.1 |Escherichia phage SF, complete genome
+>MH203051.1 |Escherichia phage Gostya9, complete genome
+>MH243438.1 |Escherichia phage vB_EcoM_NBG1, complete genome
+>MH243439.1 |Escherichia phage vB_EcoM_NBG2, complete genome
+>MH051911.1 |Enterobacteria phage vB_EcoS_IME18, complete genome
+>MH051912.1 |Enterobacteria phage vB_EcoS_IME167, complete genome
+>MH051913.1 |Enterobacteria phage vB_EcoM_IME281, complete genome
+>MH051914.1 |Enterobacteria phage vB_EcoM_IME338, complete genome
+>MH051915.1 |Enterobacteria phage vB_EcoM_IME339, complete genome
+>MH051916.1 |Enterobacteria phage vB_EcoM_IME340, complete genome
+>MH051917.1 |Enterobacteria phage vB_EcoM_IME341, complete genome
+>MH051918.1 |Enterobacteria phage vB_EcoS_IME347, complete genome
+>MG986485.1 |Escherichia phage SH2026Stx1, complete genome
+>KY914478.1 |Escherichia phage ArgO145, complete genome
+>MG983840.1 |Escherichia phage myPSH1131, complete genome
+>MG976803.1 |Escherichia phage myPSH2311, complete genome
+>MH023293.1 |Escherichia coli Phage vB_EcoS-Sa179lw, complete genome
+>MG963916.1 |Escherichia phage PDX, complete genome
+>MG966531.1 |Escherichia phage Ebrios, complete genome
+>MG833025.1 |Mutant Enterobacteria phage T7 strain T7Del1revsplitRNAP, complete genome
+>MG710528.1 |Escherichia phage GER2, complete genome
+>LC371242.1 |Escherichia phage EcS1 DNA, complete sequence
+>MG845865.1 |Escherichia phage YZ1, complete genome
+>MG770228.1 |Escherichia phage PMBT57, complete genome
+>MG781190.1 |Escherichia phage vB_EcoM-fFiEco06, complete genome
+>MG781191.1 |Escherichia phage vB_EcoM-fHoEco02, complete genome
+>MG832642.1 |Escherichia phage HZ2R8, complete genome
+>CP025712.1 |Escherichia phage YDC107_1 chromosome, complete genome
+>CP025713.1 |Escherichia phage YDC107_2 chromosome, complete genome
+>KY435490.1 |Escherichia virus K1E, complete genome
+>MG673519.1 |Escherichia phage LAMP, complete genome
+>MG563770.1 |Escherichia phage EMCL318, complete genome
+>MG251390.1 |Escherichia phage VEc3, complete genome
+>MG004687.1 |Escherichia phage mutPK1A2, complete genome
+>MG050172.1 |Escherichia phage DTL, complete genome
+>MG383452.2 |Escherichia phage FEC14, complete genome
+>MG488277.1 |Escherichia phage EG1, complete genome
+>MG099933.1 |Escherichia phage VB_EcoS-Golestan, complete genome
+>MG201401.1 |Escherichia phage PGT2, complete genome
+>MG208881.1 |Escherichia phage St11Ph5, complete genome
+>MF996376.1 |Escherichia phage SRT8, complete genome
+>MG197996.1 |Escherichia phage APC_JM3.2, complete genome
+>MF807953.1 |Escherichia phage Ayreon, complete genome
+>MF356679.1 |Escherichia phage D6, complete genome
+>MF402939.1 |Escherichia phage OSYSP, complete genome
+>KY683735.1 |Escherichia phage ECD7, complete genome
+>KY683736.1 |Escherichia phage V18, complete genome
+>KY979108.1 |Escherichia phage ECP1, complete genome
+>MF153391.1 |Escherichia phage ST20, complete genome
+>MF044457.1 |Escherichia phage ST0, complete genome
+>MF044458.2 |Escherichia phage ST32, complete genome
+>KY962008.1 |Escherichia phage ST31, complete genome
+>KY985004.1 |Escherichia phage vB_EcoS_SH2, complete genome
+>KY703222.1 |Escherichia phage phiC120, complete genome
+>KY705409.1 |Escherichia phage vB_EcoM_ECOO78, complete genome
+>KU925172.1 |Escherichia phage PE37, complete genome
+>KY608965.1 |UNVERIFIED: Escherichia phage HP3, complete genome
+>KY608966.1 |UNVERIFIED: Escherichia phage phiEC1, complete genome
+>KY608967.1 |UNVERIFIED: Escherichia phage CF2, complete genome
+>KY677846.1 |Escherichia phage phiLLS, complete genome
+>KY619305.1 |Escherichia phage vB_EcoS_ESCO41, complete genome
+>KY295894.1 |Escherichia phage vB_EcoP_F, complete genome
+>KY295891.1 |Escherichia phage vB_EcoP_B, complete genome
+>KY295892.1 |Escherichia phage vB_EcoP_C, complete genome
+>KY295893.1 |Escherichia phage vB_EcoP_D, complete genome
+>KY295895.1 |Escherichia phage G AB-2017, complete genome
+>KY295896.1 |Escherichia phage L AB-2017, complete genome
+>KY295897.1 |Escherichia phage vB_EcoP_K, complete genome
+>KY295898.1 |Escherichia phage P AB-2017, complete genome
+>KY295899.1 |Escherichia phage vB_EcoP_R, complete genome
+>KY398841.1 |Escherichia phage vB_Ecos_CEB_EC3a, complete genome
+>KX279892.2 |Escherichia virus AAPEc6, complete genome
+>KX130960.1 |Escherichia phage vB_EcoS-IME253, complete genome
+>KY290975.2 |Escherichia phage YUEEL01, complete genome
+>KY014601.1 |Escherichia phage Utah, complete genome
+>KX689784.2 |Escherichia phage JSS1, complete genome
+>KX552041.2 |Escherichia phage ESCO13, complete genome
+>KX664695.2 |Escherichia phage ESCO5, complete genome
+>KX669227.5 |Escherichia phage ZG49, complete genome
+>KT990215.1 |Escherichia phage vB_EcoP_GA2A, complete genome
+>KX534335.1 |Escherichia phage Envy, complete genome
+>KX534336.1 |Escherichia phage Gluttony, complete genome
+>KX534338.1 |Escherichia phage Lust, complete genome
+>KX534341.1 |Escherichia phage Pride, complete genome
+>KX377933.1 |Escherichia phage vB_EcoM_Alf5, complete genome
+>KX266300.1 |Enterobacteria phage ID11 clone alpha_2A_F5_1, complete genome
+>KX266301.1 |Enterobacteria phage ID11 clone alpha_4A_J15_1, complete genome
+>KX266302.1 |Enterobacteria phage ID11 clone alpha_6A_F355_1, complete genome
+>KX266303.1 |Enterobacteria phage ID11 clone alpha_8A_F182_1, complete genome
+>KX266304.1 |Enterobacteria phage ID11 clone alpha_1B_F178_1, complete genome
+>KX266305.1 |Enterobacteria phage ID11 clone alpha_3B_F322_1, complete genome
+>KX266306.1 |Enterobacteria phage ID11 clone alpha_5B_J20_1, complete genome
+>KX266307.1 |Enterobacteria phage ID11 clone alpha_2C_F421_1, complete genome
+>KX266308.1 |Enterobacteria phage ID11 clone alpha_6C_J15_1, complete genome
+>KX266309.1 |Enterobacteria phage ID11 clone alpha_8C_F355_1, complete genome
+>KX266310.1 |Enterobacteria phage ID11 clone alpha_1D_F182_1, complete genome
+>KX266311.1 |Enterobacteria phage ID11 clone alpha_3D_F178_1, complete genome
+>KX266312.1 |Enterobacteria phage ID11 clone alpha_5D_F322_1, complete genome
+>KX266313.1 |Enterobacteria phage ID11 clone alpha_7D_J20_1, complete genome
+>KX266314.1 |Enterobacteria phage ID11 clone alpha_4E_F421_1, complete genome
+>KX266315.1 |Enterobacteria phage ID11 clone alpha_8E_J15_1, complete genome
+>KX266316.1 |Enterobacteria phage ID11 clone alpha_1F_F355_1, complete genome
+>KX266317.1 |Enterobacteria phage ID11 clone alpha_3F_F182_1, complete genome
+>KX266318.1 |Enterobacteria phage ID11 clone alpha_5F_F178_1, complete genome
+>KX266319.1 |Enterobacteria phage ID11 clone alpha_7F_F322_1, complete genome
+>KX266320.1 |Enterobacteria phage ID11 clone beta_2A_J20_1, complete genome
+>KX266321.1 |Enterobacteria phage ID11 clone beta_6A_F421_1, complete genome
+>KX266322.1 |Enterobacteria phage ID11 clone beta_1B_J15_1, complete genome
+>KX266323.1 |Enterobacteria phage ID11 clone beta_3B_F355_1, complete genome
+>KX266324.1 |Enterobacteria phage ID11 clone beta_5B_F182_1, complete genome
+>KX266325.1 |Enterobacteria phage ID11 clone beta_2C_F322_1, complete genome
+>KX266326.1 |Enterobacteria phage ID11 clone beta_4C_J20_1, complete genome
+>KX266327.1 |Enterobacteria phage ID11 clone beta_8C_F421_1, complete genome
+>KX266328.1 |Enterobacteria phage ID11 clone beta_1D_F5_1, complete genome
+>KX266329.1 |Enterobacteria phage ID11 clone beta_3D_J15_1, complete genome
+>KX266330.1 |Enterobacteria phage ID11 clone beta_5D_F355_1, complete genome
+>KX266331.1 |Enterobacteria phage ID11 clone beta_7D_F182_1, complete genome
+>KX266332.1 |Enterobacteria phage ID11 clone beta_2E_F178_1, complete genome
+>KX266333.1 |Enterobacteria phage ID11 clone beta_4E_F322_1, complete genome
+>KX266334.1 |Enterobacteria phage ID11 clone beta_6E_J20_1, complete genome
+>KX266335.1 |Enterobacteria phage ID11 clone beta_1F_F421_1, complete genome
+>KX266336.1 |Enterobacteria phage ID11 clone beta_3F_F5_1, complete genome
+>KX266337.1 |Enterobacteria phage ID11 clone beta_5F_J15_1, complete genome
+>KX266338.1 |Enterobacteria phage ID11 clone gamma_2A_F182_1, complete genome
+>KX266339.1 |Enterobacteria phage ID11 clone gamma_4A_F178_1, complete genome
+>KX266340.1 |Enterobacteria phage ID11 clone gamma_6A_F322_1, complete genome
+>KX266341.1 |Enterobacteria phage ID11 clone gamma_8A_J20_1, complete genome
+>KX266342.1 |Enterobacteria phage ID11 clone gamma_7B_J15_1, complete genome
+>KX266343.1 |Enterobacteria phage ID11 clone gamma_8C_F322_1, complete genome
+>KX266344.1 |Enterobacteria phage ID11 clone gamma_1D_J20_1, complete genome
+>KX266345.1 |Enterobacteria phage ID11 clone gamma_3D_F416_1, complete genome
+>KX266346.1 |Enterobacteria phage ID11 clone gamma_7D_F5_1, complete genome
+>KX266347.1 |Enterobacteria phage ID11 clone gamma_2E_J15_1, complete genome
+>KX266348.1 |Enterobacteria phage ID11 clone gamma_6E_F182_1, complete genome
+>KX266349.1 |Enterobacteria phage ID11 clone gamma_8E_F178_1, complete genome
+>KX266350.1 |Enterobacteria phage ID11 clone gamma_1F_F322_1, complete genome
+>KX266351.1 |Enterobacteria phage ID11 clone alpha_2A_F5_2, complete genome
+>KX266352.1 |Enterobacteria phage ID11 clone alpha_4A_J15_2, complete genome
+>KX266353.1 |Enterobacteria phage ID11 clone alpha_6A_F355_2, complete genome
+>KX266354.1 |Enterobacteria phage ID11 clone alpha_8A_F182_2, complete genome
+>KX266355.1 |Enterobacteria phage ID11 clone alpha_1B_F178_2, complete genome
+>KX266356.1 |Enterobacteria phage ID11 clone alpha_3B_F322_2, complete genome
+>KX266357.1 |Enterobacteria phage ID11 clone alpha_5B_J20_2, complete genome
+>KX266358.1 |Enterobacteria phage ID11 clone alpha_6C_J15_2, complete genome
+>KX266359.1 |Enterobacteria phage ID11 clone alpha_8C_F355_2, complete genome
+>KX266360.1 |Enterobacteria phage ID11 clone alpha_1D_F182_2, complete genome
+>KX266361.1 |Enterobacteria phage ID11 clone alpha_3D_F178_2, complete genome
+>KX266362.1 |Enterobacteria phage ID11 clone alpha_5D_F322_2, complete genome
+>KX266363.1 |Enterobacteria phage ID11 clone alpha_7D_J20_2, complete genome
+>KX266364.1 |Enterobacteria phage ID11 clone alpha_4E_F421_2, complete genome
+>KX266365.1 |Enterobacteria phage ID11 clone alpha_8E_J15_2, complete genome
+>KX266366.1 |Enterobacteria phage ID11 clone alpha_1F_F355_2, complete genome
+>KX266367.1 |Enterobacteria phage ID11 clone alpha_3F_F182_2, complete genome
+>KX266368.1 |Enterobacteria phage ID11 clone alpha_5F_F178_2, complete genome
+>KX266369.1 |Enterobacteria phage ID11 clone alpha_7F_F322_2, complete genome
+>KX266370.1 |Enterobacteria phage ID11 clone beta_2A_J20_2, complete genome
+>KX266371.1 |Enterobacteria phage ID11 clone beta_6A_F421_2, complete genome
+>KX266372.1 |Enterobacteria phage ID11 clone beta_1B_J15_2, complete genome
+>KX266373.1 |Enterobacteria phage ID11 clone beta_3B_F355_2, complete genome
+>KX266374.1 |Enterobacteria phage ID11 clone beta_5B_F182_2, complete genome
+>KX266375.1 |Enterobacteria phage ID11 clone beta_2C_F322_2, complete genome
+>KX266376.1 |Enterobacteria phage ID11 clone beta_4C_J20_2, complete genome
+>KX266377.1 |Enterobacteria phage ID11 clone beta_8C_F421_2, complete genome
+>KX266378.1 |Enterobacteria phage ID11 clone beta_1D_F5_2, complete genome
+>KX266379.1 |Enterobacteria phage ID11 clone beta_3D_J15_2, complete genome
+>KX266380.1 |Enterobacteria phage ID11 clone beta_5D_F355_2, complete genome
+>KX266381.1 |Enterobacteria phage ID11 clone beta_7D_F182_2, complete genome
+>KX266382.1 |Enterobacteria phage ID11 clone beta_2E_F178_2, complete genome
+>KX266383.1 |Enterobacteria phage ID11 clone beta_4E_F322_2, complete genome
+>KX266384.1 |Enterobacteria phage ID11 clone beta_6E_J20_2, complete genome
+>KX266385.1 |Enterobacteria phage ID11 clone beta_1F_F421_2, complete genome
+>KX266386.1 |Enterobacteria phage ID11 clone beta_3F_F5_2, complete genome
+>KX266387.1 |Enterobacteria phage ID11 clone beta_5F_J15_2, complete genome
+>KX266388.1 |Enterobacteria phage ID11 clone gamma_2A_F182_2, complete genome
+>KX266389.1 |Enterobacteria phage ID11 clone gamma_4A_F178_2, complete genome
+>KX266390.1 |Enterobacteria phage ID11 clone gamma_6A_F322_2, complete genome
+>KX266391.1 |Enterobacteria phage ID11 clone gamma_8A_J20_2, complete genome
+>KX266392.1 |Enterobacteria phage ID11 clone gamma_7B_J15_2, complete genome
+>KX266393.1 |Enterobacteria phage ID11 clone gamma_8C_F322_2, complete genome
+>KX266394.1 |Enterobacteria phage ID11 clone gamma_1D_J20_2, complete genome
+>KX266395.1 |Enterobacteria phage ID11 clone gamma_3D_F416_2, complete genome
+>KX266396.1 |Enterobacteria phage ID11 clone gamma_7D_F5_2, complete genome
+>KX266397.1 |Enterobacteria phage ID11 clone gamma_2E_J15_2, complete genome
+>KX266398.1 |Enterobacteria phage ID11 clone gamma_6E_F182_2, complete genome
+>KX266399.1 |Enterobacteria phage ID11 clone gamma_8E_F178_2, complete genome
+>KX266400.1 |Enterobacteria phage ID11 clone gamma_1F_F322_2, complete genome
+>KX266401.1 |Enterobacteria phage ID11 clone alpha_1B_F178_3, complete genome
+>KX266402.1 |Enterobacteria phage ID11 clone alpha_1D_F182_3, complete genome
+>KX266403.1 |Enterobacteria phage ID11 clone alpha_1F_F355_3, complete genome
+>KX266404.1 |Enterobacteria phage ID11 clone alpha_2A_F5_3, complete genome
+>KX266405.1 |Enterobacteria phage ID11 clone alpha_2C_F421_3, complete genome
+>KX266406.1 |Enterobacteria phage ID11 clone alpha_3B_F322_3, complete genome
+>KX266407.1 |Enterobacteria phage ID11 clone alpha_3D_F178_3, complete genome
+>KX266408.1 |Enterobacteria phage ID11 clone alpha_3F_F182_3, complete genome
+>KX266409.1 |Enterobacteria phage ID11 clone alpha_4A_J15_3, complete genome
+>KX266410.1 |Enterobacteria phage ID11 clone alpha_4E_F421_3, complete genome
+>KX266411.1 |Enterobacteria phage ID11 clone alpha_5B_J20_3, complete genome
+>KX266412.1 |Enterobacteria phage ID11 clone alpha_5D_F322_3, complete genome
+>KX266413.1 |Enterobacteria phage ID11 clone alpha_5F_F178_3, complete genome
+>KX266414.1 |Enterobacteria phage ID11 clone alpha_6A_F355_3, complete genome
+>KX266415.1 |Enterobacteria phage ID11 clone alpha_6C_J15_3, complete genome
+>KX266416.1 |Enterobacteria phage ID11 clone alpha_7D_J20_3, complete genome
+>KX266417.1 |Enterobacteria phage ID11 clone alpha_7F_F322_3, complete genome
+>KX266418.1 |Enterobacteria phage ID11 clone alpha_8A_F182_3, complete genome
+>KX266419.1 |Enterobacteria phage ID11 clone alpha_8C_F355_3, complete genome
+>KX266420.1 |Enterobacteria phage ID11 clone alpha_8E_J15_3, complete genome
+>KX266421.1 |Enterobacteria phage ID11 clone beta_1B_J15_3, complete genome
+>KX266422.1 |Enterobacteria phage ID11 clone beta_1D_F5_3, complete genome
+>KX266423.1 |Enterobacteria phage ID11 clone beta_1F_F421_3, complete genome
+>KX266424.1 |Enterobacteria phage ID11 clone beta_2A_J20_3, complete genome
+>KX266425.1 |Enterobacteria phage ID11 clone beta_2C_F322_3, complete genome
+>KX266426.1 |Enterobacteria phage ID11 clone beta_2E_F178_3, complete genome
+>KX266427.1 |Enterobacteria phage ID11 clone beta_3B_F355_3, complete genome
+>KX266428.1 |Enterobacteria phage ID11 clone beta_3D_J15_3, complete genome
+>KX266429.1 |Enterobacteria phage ID11 clone beta_3F_F5_3, complete genome
+>KX266430.1 |Enterobacteria phage ID11 clone beta_4C_J20_3, complete genome
+>KX266431.1 |Enterobacteria phage ID11 clone beta_4E_F322_3, complete genome
+>KX266432.1 |Enterobacteria phage ID11 clone beta_5B_F182_3, complete genome
+>KX266433.1 |Enterobacteria phage ID11 clone beta_5D_F355_3, complete genome
+>KX266434.1 |Enterobacteria phage ID11 clone beta_5F_J15_3, complete genome
+>KX266435.1 |Enterobacteria phage ID11 clone beta_6A_F421_3, complete genome
+>KX266436.1 |Enterobacteria phage ID11 clone beta_6E_J20_3, complete genome
+>KX266437.1 |Enterobacteria phage ID11 clone beta_7D_F182_3, complete genome
+>KX266438.1 |Enterobacteria phage ID11 clone beta_8C_F421_3, complete genome
+>KX266439.1 |Enterobacteria phage ID11 clone gamma_1D_J20_3, complete genome
+>KX266440.1 |Enterobacteria phage ID11 clone gamma_1F_F322_3, complete genome
+>KX266441.1 |Enterobacteria phage ID11 clone gamma_2A_F182_3, complete genome
+>KX266442.1 |Enterobacteria phage ID11 clone gamma_2E_J15_3, complete genome
+>KX266443.1 |Enterobacteria phage ID11 clone gamma_4A_F178_3, complete genome
+>KX266444.1 |Enterobacteria phage ID11 clone gamma_6A_F322_3, complete genome
+>KX266445.1 |Enterobacteria phage ID11 clone gamma_6C_F178_3, complete genome
+>KX266446.1 |Enterobacteria phage ID11 clone gamma_6E_F182_3, complete genome
+>KX266447.1 |Enterobacteria phage ID11 clone gamma_7B_J15_3, complete genome
+>KX266448.1 |Enterobacteria phage ID11 clone gamma_7D_F5_3, complete genome
+>KX266449.1 |Enterobacteria phage ID11 clone gamma_8A_J20_3, complete genome
+>KX266450.1 |Enterobacteria phage ID11 clone gamma_8C_F322_3, complete genome
+>KX266451.1 |Enterobacteria phage ID11 clone gamma_8E_F178_3, complete genome
+>KX266452.1 |Enterobacteria phage ID11 clone alpha_1B_F178_4, complete genome
+>KX266453.1 |Enterobacteria phage ID11 clone alpha_1D_F182_4, complete genome
+>KX266454.1 |Enterobacteria phage ID11 clone alpha_1F_F355_4, complete genome
+>KX266455.1 |Enterobacteria phage ID11 clone alpha_2A_F5_4, complete genome
+>KX266456.1 |Enterobacteria phage ID11 clone alpha_2C_F421_4, complete genome
+>KX266457.1 |Enterobacteria phage ID11 clone alpha_3B_F322_4, complete genome
+>KX266458.1 |Enterobacteria phage ID11 clone alpha_3D_F178_4, complete genome
+>KX266459.1 |Enterobacteria phage ID11 clone alpha_3F_F182_4, complete genome
+>KX266460.1 |Enterobacteria phage ID11 clone alpha_4A_J15_4, complete genome
+>KX266461.1 |Enterobacteria phage ID11 clone alpha_4E_F421_4, complete genome
+>KX266462.1 |Enterobacteria phage ID11 clone alpha_5B_J20_4, complete genome
+>KX266463.1 |Enterobacteria phage ID11 clone alpha_5D_F322_4, complete genome
+>KX266464.1 |Enterobacteria phage ID11 clone alpha_5F_F178_4, complete genome
+>KX266465.1 |Enterobacteria phage ID11 clone alpha_6A_F355_4, complete genome
+>KX266466.1 |Enterobacteria phage ID11 clone alpha_6C_J15_4, complete genome
+>KX266467.1 |Enterobacteria phage ID11 clone alpha_7D_J20_4, complete genome
+>KX266468.1 |Enterobacteria phage ID11 clone alpha_7F_F322_4, complete genome
+>KX266469.1 |Enterobacteria phage ID11 clone alpha_8A_F182_4, complete genome
+>KX266470.1 |Enterobacteria phage ID11 clone alpha_8C_F355_4, complete genome
+>KX266471.1 |Enterobacteria phage ID11 clone alpha_8E_J15_4, complete genome
+>KX266472.1 |Enterobacteria phage ID11 clone beta_1B_J15_4, complete genome
+>KX266473.1 |Enterobacteria phage ID11 clone beta_1D_F5_4, complete genome
+>KX266474.1 |Enterobacteria phage ID11 clone beta_1F_F421_4, complete genome
+>KX266475.1 |Enterobacteria phage ID11 clone beta_2A_J20_4, complete genome
+>KX266476.1 |Enterobacteria phage ID11 clone beta_2C_F322_4, complete genome
+>KX266477.1 |Enterobacteria phage ID11 clone beta_2E_F178_4, complete genome
+>KX266478.1 |Enterobacteria phage ID11 clone beta_3B_F355_4, complete genome
+>KX266479.1 |Enterobacteria phage ID11 clone beta_3D_J15_4, complete genome
+>KX266480.1 |Enterobacteria phage ID11 clone beta_3F_F5_4, complete genome
+>KX266481.1 |Enterobacteria phage ID11 clone beta_4C_J20_4, complete genome
+>KX266482.1 |Enterobacteria phage ID11 clone beta_4E_F322_4, complete genome
+>KX266483.1 |Enterobacteria phage ID11 clone beta_5B_F182_4, complete genome
+>KX266484.1 |Enterobacteria phage ID11 clone beta_5D_F355_4, complete genome
+>KX266485.1 |Enterobacteria phage ID11 clone beta_5F_J15_4, complete genome
+>KX266486.1 |Enterobacteria phage ID11 clone beta_6A_F421_4, complete genome
+>KX266487.1 |Enterobacteria phage ID11 clone beta_6E_J20_4, complete genome
+>KX266488.1 |Enterobacteria phage ID11 clone gamma_1F_F322_4, complete genome
+>KX266489.1 |Enterobacteria phage ID11 clone gamma_2A_F182_4, complete genome
+>KX266490.1 |Enterobacteria phage ID11 clone gamma_2E_J15_4, complete genome
+>KX266491.1 |Enterobacteria phage ID11 clone gamma_6C_F178_4, complete genome
+>KX266492.1 |Enterobacteria phage ID11 clone gamma_6E_F182_4, complete genome
+>KX266493.1 |Enterobacteria phage ID11 clone gamma_7B_J15_4, complete genome
+>KX266494.1 |Enterobacteria phage ID11 clone gamma_7D_F5_4, complete genome
+>KX266495.1 |Enterobacteria phage ID11 clone gamma_8A_J20_4, complete genome
+>KX266496.1 |Enterobacteria phage ID11 clone alpha_1B_F178_5, complete genome
+>KX266497.1 |Enterobacteria phage ID11 clone alpha_1D_F182_5, complete genome
+>KX266498.1 |Enterobacteria phage ID11 clone alpha_1F_F355_5, complete genome
+>KX266499.1 |Enterobacteria phage ID11 clone alpha_2A_F5_5, complete genome
+>KX266500.1 |Enterobacteria phage ID11 clone alpha_2C_F421_5, complete genome
+>KX266501.1 |Enterobacteria phage ID11 clone alpha_3B_F322_5, complete genome
+>KX266502.1 |Enterobacteria phage ID11 clone alpha_3D_F178_5, complete genome
+>KX266503.1 |Enterobacteria phage ID11 clone alpha_3F_F182_5, complete genome
+>KX266504.1 |Enterobacteria phage ID11 clone alpha_7F_F322_5, complete genome
+>KX266505.1 |Enterobacteria phage ID11 clone alpha_8A_F182_5, complete genome
+>KX266506.1 |Enterobacteria phage ID11 clone alpha_8C_F355_5, complete genome
+>KX266507.1 |Enterobacteria phage ID11 clone alpha_8E_J15_5, complete genome
+>KX266508.1 |Enterobacteria phage ID11 clone beta_1B_J15_5, complete genome
+>KX266509.1 |Enterobacteria phage ID11 clone beta_1D_F5_5, complete genome
+>KX266510.1 |Enterobacteria phage ID11 clone beta_1F_F421_5, complete genome
+>KX266511.1 |Enterobacteria phage ID11 clone beta_2A_J20_5, complete genome
+>KX266512.1 |Enterobacteria phage ID11 clone beta_2C_F322_5, complete genome
+>KX266513.1 |Enterobacteria phage ID11 clone beta_2E_F178_5, complete genome
+>KX266514.1 |Enterobacteria phage ID11 clone beta_3B_F355_5, complete genome
+>KX266515.1 |Enterobacteria phage ID11 clone beta_3D_J15_5, complete genome
+>KX266516.1 |Enterobacteria phage ID11 clone beta_3F_F5_5, complete genome
+>KX266517.1 |Enterobacteria phage ID11 clone beta_4C_J20_5, complete genome
+>KX266518.1 |Enterobacteria phage ID11 clone beta_4E_F322_5, complete genome
+>KX266519.1 |Enterobacteria phage ID11 clone beta_5B_F182_5, complete genome
+>KX266520.1 |Enterobacteria phage ID11 clone beta_5D_F355_5, complete genome
+>KX266521.1 |Enterobacteria phage ID11 clone beta_5F_J15_5, complete genome
+>KX266522.1 |Enterobacteria phage ID11 clone beta_6A_F421_5, complete genome
+>KX266523.1 |Enterobacteria phage ID11 clone beta_6E_J20_5, complete genome
+>KX266524.1 |Enterobacteria phage ID11 clone beta_7D_F182_5, complete genome
+>KX266525.1 |Enterobacteria phage ID11 clone gamma_1D_J20_5, complete genome
+>KX266526.1 |Enterobacteria phage ID11 clone gamma_1F_F322_5, complete genome
+>KX266527.1 |Enterobacteria phage ID11 clone gamma_2A_F182_5, complete genome
+>KX266528.1 |Enterobacteria phage ID11 clone gamma_2E_J15_5, complete genome
+>KX266529.1 |Enterobacteria phage ID11 clone gamma_4A_F178_5, complete genome
+>KX266530.1 |Enterobacteria phage ID11 clone gamma_6A_F322_5, complete genome
+>KX266531.1 |Enterobacteria phage ID11 clone gamma_6C_F178_5, complete genome
+>KX266532.1 |Enterobacteria phage ID11 clone gamma_6E_F182_5, complete genome
+>KX266533.1 |Enterobacteria phage ID11 clone gamma_7B_J15_5, complete genome
+>KX266534.1 |Enterobacteria phage ID11 clone gamma_7D_F5_5, complete genome
+>KX266535.1 |Enterobacteria phage ID11 clone gamma_8A_J20_5, complete genome
+>KX266536.1 |Enterobacteria phage ID11 clone gamma_8C_F322_5, complete genome
+>KX266537.1 |Enterobacteria phage ID11 clone gamma_8E_F178_5, complete genome
+>KX266538.1 |Enterobacteria phage ID11 clone alpha_2C_F421_6, complete genome
+>KX266539.1 |Enterobacteria phage ID11 clone alpha_4A_J15_6, complete genome
+>KX266540.1 |Enterobacteria phage ID11 clone alpha_4E_F421_6, complete genome
+>KX266541.1 |Enterobacteria phage ID11 clone alpha_5B_J20_6, complete genome
+>KX266542.1 |Enterobacteria phage ID11 clone alpha_5D_F322_6, complete genome
+>KX266543.1 |Enterobacteria phage ID11 clone alpha_5F_F178_6, complete genome
+>KX266544.1 |Enterobacteria phage ID11 clone alpha_6C_J15_6, complete genome
+>KX266545.1 |Enterobacteria phage ID11 clone alpha_7D_J20_6, complete genome
+>KX266546.1 |Enterobacteria phage ID11 clone beta_7D_F182_6, complete genome
+>KX266547.1 |Enterobacteria phage ID11 clone beta_8C_F421_6, complete genome
+>KX266548.1 |Enterobacteria phage ID11 clone gamma_1D_J20_6, complete genome
+>KX266549.1 |Enterobacteria phage ID11 clone gamma_3D_F416_3, complete genome
+>KX266550.1 |Enterobacteria phage ID11 clone gamma_3D_F416_4, complete genome
+>KX266551.1 |Enterobacteria phage ID11 clone gamma_3D_F416_5, complete genome
+>KX266552.1 |Enterobacteria phage ID11 clone gamma_4A_F178_6, complete genome
+>KX266553.1 |Enterobacteria phage ID11 clone gamma_6A_F322_6, complete genome
+>KX266554.1 |Enterobacteria phage ID11 clone gamma_8E_F178_6, complete genome
+>KX266555.1 |Enterobacteria phage ID11 clone gamma_6C_F178_1, complete genome
+>KX266556.1 |Enterobacteria phage ID11 clone gamma_6C_F178_2, complete genome
+>KX266557.1 |Enterobacteria phage ID11 clone beta_8A_F5_5-12_1, complete genome
+>KX266558.1 |Enterobacteria phage ID11 clone beta_8A_F5_5-12_2, complete genome
+>KX266559.1 |Enterobacteria phage ID11 clone beta_8A_F5_5_12_3, complete genome
+>KX266560.1 |Enterobacteria phage ID11 clone beta_8A_F5_5_12_5, complete genome
+>KX266561.1 |Enterobacteria phage ID11 clone beta_8A_F5_7_27_6, complete genome
+>KX266562.1 |Enterobacteria phage ID11 clone gamma_5B_F5_5-12_1, complete genome
+>KX266563.1 |Enterobacteria phage ID11 clone gamma_5B_F5_5-12_2, complete genome
+>KX266564.1 |Enterobacteria phage ID11 clone gamma_5B_F5_5_12_3, complete genome
+>KX266565.1 |Enterobacteria phage ID11 clone gamma_5B_F5_5_12_5, complete genome
+>KX266566.1 |Enterobacteria phage ID11 clone gamma_5B_F5_7_27_6, complete genome
+>KX266567.1 |Enterobacteria phage ID11 clone gamma_2C_F355_5-12_1, complete genome
+>KX266568.1 |Enterobacteria phage ID11 clone gamma_2C_F355_5_12_3, complete genome
+>KX266569.1 |Enterobacteria phage ID11 clone gamma_2C_F355_5_12_4, complete genome
+>KX266570.1 |Enterobacteria phage ID11 clone gamma_2C_F355_5_12_5, complete genome
+>KX266571.1 |Enterobacteria phage ID11 clone gamma_2C_F355_7_11_6, complete genome
+>KX266572.1 |Enterobacteria phage ID11 clone gamma_4E_F355_5-12_1, complete genome
+>KX266573.1 |Enterobacteria phage ID11 clone gamma_4E_F355_5-12_2, complete genome
+>KX266574.1 |Enterobacteria phage ID11 clone gamma_4E_F355_5_12_3, complete genome
+>KX266575.1 |Enterobacteria phage ID11 clone gamma_4E_F355_5_12_4, complete genome
+>KX266576.1 |Enterobacteria phage ID11 clone gamma_4E_F355_5_12_5, complete genome
+>KX266577.1 |Enterobacteria phage ID11 clone gamma_3F_J20_5-12_1, complete genome
+>KX266578.1 |Enterobacteria phage ID11 clone gamma_3F_J20_5-12_2, complete genome
+>KX266579.1 |Enterobacteria phage ID11 clone gamma_3F_J20_5_12_3, complete genome
+>KX266580.1 |Enterobacteria phage ID11 clone gamma_3F_J20_5_12_4, complete genome
+>KX266581.1 |Enterobacteria phage ID11 clone gamma_3F_J20_5_12_5, complete genome
+>KX266582.1 |Enterobacteria phage ID11 clone alpha_7B_F416_5-12_1, complete genome
+>KX266583.1 |Enterobacteria phage ID11 clone alpha_7B_F416_5-12_2, complete genome
+>KX266584.1 |Enterobacteria phage ID11 clone alpha_7B_F416_5_12_3, complete genome
+>KX266585.1 |Enterobacteria phage ID11 clone alpha_7B_F416_5_12_4, complete genome
+>KX266586.1 |Enterobacteria phage ID11 clone alpha_7B_F416_5_12_5, complete genome
+>KX266587.1 |Enterobacteria phage ID11 clone alpha_2E_F416_5-12_1, complete genome
+>KX266588.1 |Enterobacteria phage ID11 clone alpha_2E_F416_5-12_2, complete genome
+>KX266589.1 |Enterobacteria phage ID11 clone alpha_2E_F416_5_12_3, complete genome
+>KX266590.1 |Enterobacteria phage ID11 clone alpha_2E_F416_5_12_4, complete genome
+>KX266591.1 |Enterobacteria phage ID11 clone alpha_2E_F416_5_12_5, complete genome
+>KX266592.1 |Enterobacteria phage ID11 clone beta_4A_F416_5-12_1, complete genome
+>KX266593.1 |Enterobacteria phage ID11 clone beta_4A_F416_5-12_2, complete genome
+>KX266594.1 |Enterobacteria phage ID11 clone beta_4A_F416_5_12_3, complete genome
+>KX266595.1 |Enterobacteria phage ID11 clone beta_4A_F416_5_12_4, complete genome
+>KX266596.1 |Enterobacteria phage ID11 clone beta_4A_F416_5_12_5, complete genome
+>KX266597.1 |Enterobacteria phage ID11 clone beta_6C_F416_5-12_1, complete genome
+>KX266598.1 |Enterobacteria phage ID11 clone beta_6C_F416_5-12_2, complete genome
+>KX266599.1 |Enterobacteria phage ID11 clone beta_6C_F416_5_12_3, complete genome
+>KX266600.1 |Enterobacteria phage ID11 clone beta_6C_F416_5_12_4, complete genome
+>KX266601.1 |Enterobacteria phage ID11 clone beta_6C_F416_5_12_5, complete genome
+>KX266602.1 |Enterobacteria phage ID11 clone beta_8E_F416_5-12_1, complete genome
+>KX266603.1 |Enterobacteria phage ID11 clone beta_8E_F416_5-12_2, complete genome
+>KX266604.1 |Enterobacteria phage ID11 clone beta_8E_F416_5_12_3, complete genome
+>KX266605.1 |Enterobacteria phage ID11 clone beta_8E_F416_5_12_4, complete genome
+>KX266606.1 |Enterobacteria phage ID11 clone beta_8E_F416_5_12_5, complete genome
+>KX266607.1 |Enterobacteria phage ID11 clone gamma_1B_F416_5-12_1, complete genome
+>KX266608.1 |Enterobacteria phage ID11 clone gamma_1B_F416_5-12_2, complete genome
+>KX266609.1 |Enterobacteria phage ID11 clone gamma_1B_F416_5_12_3, complete genome
+>KX266610.1 |Enterobacteria phage ID11 clone gamma_1B_F416_5_12_4, complete genome
+>KX266611.1 |Enterobacteria phage ID11 clone gamma_1B_F416_5_12_5, complete genome
+>KX266612.1 |Enterobacteria phage ID11 clone gamma_5F_F416_5-12_1, complete genome
+>KX266613.1 |Enterobacteria phage ID11 clone gamma_5F_F416_5-12_2, complete genome
+>KX266614.1 |Enterobacteria phage ID11 clone gamma_5F_F416_5_12_3, complete genome
+>KX266615.1 |Enterobacteria phage ID11 clone gamma_5F_F416_5_12_4, complete genome
+>KX266616.1 |Enterobacteria phage ID11 clone gamma_5F_F416_5_12_5, complete genome
+>KX266617.1 |Enterobacteria phage ID11 clone gamma_3B_F421_5-12_1, complete genome
+>KX266618.1 |Enterobacteria phage ID11 clone gamma_3B_F421_5-12_2, complete genome
+>KX266619.1 |Enterobacteria phage ID11 clone gamma_3B_F421_5_12_3, complete genome
+>KX266620.1 |Enterobacteria phage ID11 clone gamma_3B_F421_5_12_4, complete genome
+>KX266621.1 |Enterobacteria phage ID11 clone gamma_3B_F421_5_12_5, complete genome
+>KX266622.1 |Enterobacteria phage ID11 clone gamma_3B_F421_7_11_6, complete genome
+>KX266623.1 |Enterobacteria phage ID11 clone gamma_5D_F421_5-12_1, complete genome
+>KX266624.1 |Enterobacteria phage ID11 clone gamma_5D_F421_5-12_2, complete genome
+>KX266625.1 |Enterobacteria phage ID11 clone gamma_5D_F421_5_12_3, complete genome
+>KX266626.1 |Enterobacteria phage ID11 clone gamma_5D_F421_5_12_5, complete genome
+>KX266627.1 |Enterobacteria phage ID11 clone gamma_5D_F421_7_27_6, complete genome
+>KX266628.1 |Enterobacteria phage ID11 clone gamma_7F_F421_5-12_1, complete genome
+>KX266629.1 |Enterobacteria phage ID11 clone gamma_7F_F421_5-12_2, complete genome
+>KX266630.1 |Enterobacteria phage ID11 clone gamma_7F_F421_5_12_3, complete genome
+>KX266631.1 |Enterobacteria phage ID11 clone gamma_7F_F421_5_12_4, complete genome
+>KX266632.1 |Enterobacteria phage ID11 clone gamma_7F_F421_5_12_5, complete genome
+>KX266633.1 |Enterobacteria phage ID11 clone beta_7B_F178_5-12_1, complete genome
+>KX266634.1 |Enterobacteria phage ID11 clone beta_7B_F178_5-12_2, complete genome
+>KX266635.1 |Enterobacteria phage ID11 clone beta_7B_F178_5_12_3, complete genome
+>KX266636.1 |Enterobacteria phage ID11 clone beta_7B_F178_5_12_4, complete genome
+>KX266637.1 |Enterobacteria phage ID11 clone beta_7B_F178_7_27_6, complete genome
+>KX130726.1 |Escherichia phage ECA2, complete genome
+>KU927499.1 |Escherichia phage 64795_ec1, complete genome
+>KX130668.1 |Enterobacteria phage vB_EcoS_NBD2, complete genome
+>KX009778.3 |Escherichia phage UFV-AREG1, complete genome
+>KU878968.1 |Escherichia phage WG01, complete genome
+>KU878969.1 |Escherichia phage MX01, complete genome
+>KR233165.1 |Escherichia phage PEC04, complete genome
+>KR269718.1 |Escherichia phage HY03, complete genome
+>KU867876.1 |Escherichia phage vB_EcoM-UFV13, complete genome
+>KU298437.1 |Escherichia phage phiON-2011, complete genome
+>KU255730.1 |Escherichia phage phiE142, complete genome
+>KU052037.1 |Escherichia phage Rac-SA53, complete genome
+>KR422352.1 |Escherichia phage APCEc01, complete genome
+>KR422353.1 |Escherichia phage APCEc03, complete genome
+>KR698074.1 |Escherichia phage APCEc02, complete genome
+>KU194205.1 |Escherichia phage JMPW2, complete genome
+>KU194206.1 |Escherichia phage JMPW1, complete genome
+>AP012530.1 |Stx2-converting phage Stx2a_F349 proviral DNA, complete genome
+>AP012536.1 |Stx2-converting phage Stx2a_1447 proviral DNA, complete genome
+>AP012537.1 |Stx2-converting phage Stx2a_WGPS2 proviral DNA, complete genome
+>AP012538.1 |Stx2-converting phage Stx2a_WGPS4 proviral DNA, complete genome
+>AP012539.1 |Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete genome
+>AP012540.1 |Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete genome
+>KT825490.1 |Escherichia phage C119, complete genome
+>KT454805.2 |Escherichia phage SUSP1, complete genome
+>KT454806.2 |Escherichia phage SUSP2, complete genome
+>KP682371.1 |Escherichia phage PA2, complete genome
+>KP682372.1 |Escherichia phage PA4, complete genome
+>KP682373.1 |Escherichia phage PA5, complete genome
+>KP682374.1 |Escherichia phage PA8, complete genome
+>KP682375.1 |Escherichia phage PA11, complete genome
+>KP682376.1 |Escherichia phage PA12, complete genome
+>KP682377.1 |Escherichia phage PA16, complete genome
+>KP682378.1 |Escherichia phage PA18, complete genome
+>KP682379.1 |Escherichia phage PA21, complete genome
+>KP682380.1 |Escherichia phage PA27, complete genome
+>KP682381.1 |Escherichia phage PA28, complete genome
+>KP682382.1 |Escherichia phage PA29, complete genome
+>KP682383.1 |Escherichia phage PA30, complete genome
+>KP682384.1 |Escherichia phage PA32, complete genome
+>KP682385.1 |Escherichia phage PA33, complete genome
+>KP682386.1 |Escherichia phage PA36, complete genome
+>KP682387.1 |Escherichia phage PA42, complete genome
+>KP682388.1 |Escherichia phage PA44, complete genome
+>KP682389.1 |Escherichia phage PA45, complete genome
+>KP682390.1 |Escherichia phage PA50, complete genome
+>KP682391.1 |Escherichia phage PA51, complete genome
+>KP682392.1 |Escherichia phage PA52, complete genome
+>KT232076.1 |UNVERIFIED: Enterobacteria phage lambda, complete genome
+>KT001917.1 |Escherichia phage Murica, complete genome
+>KM092515.1 |Escherichia phage HY02, complete genome
+>KR073660.1 |Escherichia phage pro147, complete genome
+>KR073661.1 |Escherichia phage pro483, complete genome
+>KJ749827.1 |Escherichia phage ECBP5, complete genome
+>KP869100.1 |Escherichia coli O157 typing phage 1, complete genome
+>KP869101.1 |Escherichia coli O157 typing phage 3, complete genome
+>KP869103.1 |Escherichia coli O157 typing phage 5, complete genome
+>KP869104.1 |Escherichia coli O157 typing phage 6, complete genome
+>KP869108.1 |Escherichia coli O157 typing phage 10, complete genome
+>KP869109.1 |Escherichia coli O157 typing phage 11, complete genome
+>KP869110.1 |Escherichia coli O157 typing phage 12, complete genome
+>KR014248.1 |Escherichia phage vB_EcoM_AYO145A, complete genome
+>KP719132.1 |Enterobacteria phage JenP1, complete genome
+>KP719133.1 |Enterobacteria phage JenP2, complete genome
+>KP719134.1 |Enterobacteria phage JenK1, complete genome
+>KP090453.1 |Escherichia phage P483, complete genome
+>KP090454.1 |Escherichia phage P694, complete genome
+>KP308307.1 |Escherichia phage 172-1, complete genome
+>KP064094.1 |Enterobacteria phage CAjan, complete genome
+>KM044272.1 |Phage vB_EcoP_SU10, complete genome
+>KM896878.1 |Escherichia phage YD-2008.s, complete genome
+>KM979354.1 |Escherichia phage DT57C, complete genome
+>KM979355.1 |Enterobacteria phage DT571/2, complete genome
+>KP063541.1 |Enterobacteria phage P88, complete genome
+>KP007359.1 |Enterobacteria phage vB_EcoM_VR5, complete genome
+>KP007360.1 |Enterobacteria phage vB_EcoM_VR20, complete genome
+>KP007361.1 |Enterobacteria phage vB_EcoM_VR25, complete genome
+>KP007362.1 |Enterobacteria phage vB_EcoM_VR26, complete genome
+>KM236242.1 |Escherichia phage Pollock, complete genome
+>KM236243.1 |Escherichia phage Seurat, complete genome
+>KM657822.1 |Escherichia phage vB_EcoM-VpaE1, complete genome
+>KF591601.1 |Enterobacteria phage IME_EC2, complete genome
+>KM606994.1 |Enterobacteria phage RB3, complete genome
+>KM606995.1 |Enterobacteria phage RB5, complete genome
+>KM606996.1 |Enterobacteria phage RB6, complete genome
+>KM606997.1 |Enterobacteria phage RB7, complete genome
+>KM606998.1 |Enterobacteria phage RB9, complete genome
+>KM606999.1 |Enterobacteria phage RB10, complete genome
+>KM607000.1 |Enterobacteria phage RB27, complete genome
+>KM607001.1 |Enterobacteria phage RB33, complete genome
+>KM607002.1 |Enterobacteria phage RB55, complete genome
+>KM607003.1 |Enterobacteria phage RB59, complete genome
+>KM607004.1 |Enterobacteria phage RB68, complete genome
+>KF971864.1 |Escherichia phage phi191, complete genome
+>KM507819.1 |Escherichia phage 121Q, complete genome
+>KM360178.1 |Escherichia phage vB_EcoM-ep3, complete genome
+>KM242061.1 |Escherichia phage CICC 80001, complete genome
+>KM247287.1 |Enterobacteria phage J8-65, complete genome
+>KM190144.1 |Escherichia phage Av-05, complete genome
+>FO818745.1 |Escherichia phage RCS47, complete genome
+>KM233151.1 |Enterobacteria phage EK99P-1, complete genome
+>KJ997912.1 |Enterobacteria phage MED1, complete genome
+>KJ909655.1 |Escherichia Stx1-converting recombinant phage HUN/2013, complete genome
+>KF771236.1 |Escherichia phage bV_EcoS_AHP24, complete genome
+>KF771237.1 |Escherichia phage bV_EcoS_AHP42, complete genome
+>KF771238.1 |Escherichia phage bV_EcoS_AHS24, complete genome
+>KF771239.1 |Escherichia phage bV_EcoS_AKS96, complete genome
+>KF562340.1 |Escherichia phage vB_EcoP_PhAPEC7, complete genome
+>KF562341.1 |Escherichia phage vB_EcoM_PhAPEC2, complete genome
+>KJ748011.1 |Escherichia phage PE3-1, complete genome
+>KJ190157.1 |Escherichia phage vB_EcoS_FFH1, complete genome
+>KJ190158.1 |Escherichia phage vB_EcoM_FFH2, complete genome
+>KJ668714.2 |Escherichia phage e11/2, complete genome
+>KJ135004.2 |Enterobacteria phage Bp4, complete genome
+>KJ419279.1 |Enterobacteria phage 9g, complete genome
+>KF981730.1 |Escherichia phage KBNP1711, complete genome
+>KF550303.1 |Enterobacteria phage 4MG, complete genome
+>KF322032.1 |Enterobacteria phage fiAA91-ss, complete genome
+>JX421753.1 |Enterobacteria phage T7M, complete genome
+>KF044309.1 |Enterobacteria phage FL68 Tallahassee/FL/2012, complete genome
+>KF044310.1 |Enterobacteria phage FL76 Tallahassee/FL/2012, complete genome
+>KF030445.1 |Escherichia phage 1720a-02, complete genome
+>KC690136.1 |Escherichia phage 2 JES-2013, complete genome
+>KC801932.2 |Escherichia phage Lw1, complete genome
+>KC618326.1 |Escherichia phage P2, complete genome
+>KC333879.1 |Enterobacteria phage phiJLA23, complete genome
+>KC206276.2 |Escherichia phage EC1-UPM, complete genome
+>KC237308.1 |Enterobacteria phage ID204 Moscow/ID, complete genome
+>KC295538.1 |Escherichia phage PBECO 4, complete genome
+>JQ086369.1 |Enterobacteria phage HK106, complete genome
+>JQ086370.1 |Enterobacteria phage HK140, complete genome
+>JQ086371.1 |Enterobacteria phage HK225, complete genome
+>JQ086372.1 |Enterobacteria phage HK446, complete genome
+>JQ086373.1 |Enterobacteria phage HK542, complete genome
+>JQ086374.1 |Enterobacteria phage HK544, complete genome
+>JQ086375.1 |Enterobacteria phage HK578, complete genome
+>JQ086376.1 |Enterobacteria phage HK630, complete genome
+>JQ086377.1 |Enterobacteria phage HK633, complete genome
+>JQ182726.1 |Enterobacteria phage mEpX2, complete genome
+>JQ182727.1 |Enterobacteria phage mEpX1, complete genome
+>JQ182728.1 |Enterobacteria phage mEp460, complete genome
+>JQ182729.1 |Enterobacterial phage mEp390, complete genome
+>JQ182730.1 |Enterobacteria phage mEp237, complete genome
+>JQ182731.1 |Enterobacteria phage mEp235, complete genome
+>JQ182732.1 |Enterobacterial phage mEp234, complete genome
+>JQ182733.1 |Enterobacterial phage mEp213, complete genome
+>JQ182734.1 |Enterobacteria phage mEp043 c-1, complete genome
+>JQ182735.1 |Enterobacteria phage HK629, complete genome
+>JQ182736.1 |Enterobacteria phage vB_EcoS_Rogue1, complete genome
+>JX625144.1 |Enterobacteria phage M, complete genome
+>JX561091.1 |Escherichia phage phAPEC8, complete genome
+>JN986844.1 |Enterobacteria phage vB_EcoP_ACG-C91, complete genome
+>JN986845.1 |Enterobacteria phage vB_EcoS_ACG-M12, complete genome
+>JN986846.1 |Enterobacteria phage vB_EcoM_ACG-C40, complete genome
+>JX865427.2 |Escherichia phage JL1, complete genome
+>JX871397.1 |Enterobacteria phage phi80, complete genome
+>JX880034.1 |Enterobacter phage IME11, complete genome
+>JX560968.1 |Escherichia phage EC6, complete genome
+>JX536493.1 |Enterobacteria phage HX01, complete genome
+>JQ966307.1 |Enterobacterio phage MS2 isolate DL52, complete genome
+>JX415535.1 |Escherichia phage ECBP1, complete genome
+>JX415536.1 |Escherichia phage ECBP2, complete genome
+>JX412914.1 |Enterobacteria phage M13 isolate WT variety Rutgers, complete genome
+>JX128257.1 |Escherichia phage ECML-4, complete genome
+>JX128258.1 |Escherichia phage ECML-117, complete genome
+>JX128259.1 |Escherichia phage ECML-134, complete genome
+>JQ764986.1 |Mutant Enterobacteria phage phiX174 isolate PhiX_10_1, complete genome
+>JQ764987.1 |Mutant Enterobacteria phage phiX174 isolate PhiX_10_2, complete genome
+>JQ764988.2 |Mutant Enterobacteria phage phiX174 isolate PhiX_10_3, complete genome
+>JQ764989.1 |Mutant Enterobacteria phage phiX174 isolate PhiX_10_4, complete genome
+>JQ764990.1 |Mutant Enterobacteria phage phiX174 isolate PhiX_10_5, complete genome
+>HQ665011.1 |Escherichia phage vB_EcoS_AKFV33, complete genome
+>JQ347801.1 |Escherichia phage JLK-2012, complete sequence
+>JQ031132.1 |Enterobacteria phage vB_EcoM-FV3, complete genome
+>JN673056.1 |Escherichia phage PhaxI, complete genome
+>JQ011317.1 |Escherichia phage TL-2011b, complete genome
+>JQ011318.1 |Escherichia phage TL-2011c, complete genome
+>JF974339.1 |Enterobacteria phage IME10, complete genome
+>HM173637.1 |Escherichia phage HK75, complete genome
+>HM208537.1 |Escherichia phage HK639, complete genome
+>JN600960.1 |Enterobacteria phage IME10, complete genome
+>JF719726.1 |Enterobacteria phage phiX174 isolate phiX_1_FR, complete genome
+>JF719727.1 |Enterobacteria phage phiX174 isolate phiX_2_FR, complete genome
+>JF719728.1 |Enterobacteria phage phiX174 isolate phiX_3_FR, complete genome
+>JF719729.1 |Enterobacteria phage G4 isolate G4_1_FR, complete genome
+>JF719730.1 |Enterobacteria phage G4 isolate G4_2_FR, complete genome
+>JF719731.1 |Enterobacteria phage G4 isolate G4_3_FR, complete genome
+>JF719732.1 |Enterobacteria phage f1 isolate f1_1_FR, complete genome
+>JF719733.1 |Enterobacteria phage f1 isolate f1_2_FR, complete genome
+>JF719734.1 |Enterobacteria phage f1 isolate f1_3_FR, complete genome
+>HM208303.1 |Stx2 converting phage vB_EcoP_24B, complete genome
+>HQ829472.1 |Enterobacteria phage Bp7, complete genome
+>JN593240.1 |Escherichia virus CBA120, complete genome
+>HM997020.1 |Escherichia phage wV7, complete genome
+>JN202312.1 |Enterobacteria phage ime09, complete genome
+>JF770475.1 |Escherichia phage phiEB49, complete genome
+>HM753658.1 |Enterobacteria phage phiX174 isolate XC+Mad06ic3, complete genome
+>HM753659.1 |Enterobacteria phage phiX174 isolate XC+Mad06ic5, complete genome
+>HM753664.1 |Enterobacteria phage phiX174 isolate XC+Mad10ic2, complete genome
+>HM753665.1 |Enterobacteria phage phiX174 isolate XC+Mad10ic4, complete genome
+>HM753666.1 |Enterobacteria phage phiX174 isolate XC+Mad10ic6, complete genome
+>HM753667.1 |Enterobacteria phage phiX174 isolate XC+Mad10ic7, complete genome
+>HM753668.1 |Enterobacteria phage phiX174 isolate XC+Mad10ic8, complete genome
+>HM753676.1 |Enterobacteria phage phiX174 isolate XC+Mad14ic1, complete genome
+>HM753677.1 |Enterobacteria phage phiX174 isolate XC+Mad14ic2, complete genome
+>HM753680.1 |Enterobacteria phage phiX174 isolate XC+Mad20ic1, complete genome
+>HM753681.1 |Enterobacteria phage phiX174 isolate XC+Mad20ic2, complete genome
+>HM753682.1 |Enterobacteria phage phiX174 isolate XC+Mad20ic3, complete genome
+>HM753683.1 |Enterobacteria phage phiX174 isolate XC+Mad20ic5, complete genome
+>HM753684.1 |Enterobacteria phage phiX174 isolate XC+Mad20ic6, complete genome
+>HM753685.1 |Enterobacteria phage phiX174 isolate XC+Mad20ic7, complete genome
+>HM753690.1 |Enterobacteria phage phiX174 isolate XC+Mad22ic1, complete genome
+>HM753691.1 |Enterobacteria phage phiX174 isolate XC+Mad22ic2, complete genome
+>HM753692.1 |Enterobacteria phage phiX174 isolate XC+Mad22ic5, complete genome
+>HM753693.1 |Enterobacteria phage phiX174 isolate XC+Mad22ic6, complete genome
+>HM753694.1 |Enterobacteria phage phiX174 isolate XC+Mad22ic7, complete genome
+>HM753695.1 |Enterobacteria phage phiX174 isolate XC+Mad22ic8, complete genome
+>HM753703.1 |Enterobacteria phage phiX174 isolate XC+Mbd10ic1, complete genome
+>HM753704.1 |Enterobacteria phage phiX174 isolate XC+Mbd10ic2, complete genome
+>HM753707.1 |Enterobacteria phage phiX174 isolate XC+MbD22ic2, complete genome
+>HM753708.1 |Enterobacteria phage phiX174 isolate XC+MbD22ic3, complete genome
+>HM753709.1 |Enterobacteria phage phiX174 isolate XC+MbD22ic4, complete genome
+>HM753710.1 |Enterobacteria phage phiX174 isolate XC+MbD22ic5, complete genome
+>HM753711.1 |Enterobacteria phage phiX174 isolate XC+MbD22ic6, complete genome
+>HM753712.1 |Enterobacteria phage phiX174 isolate XC+MbD22ic7, complete genome
+>HQ424691.1 |Enterobacteria phage VT2phi_272, complete sequence
+>HM563683.1 |Enterobacteria phage vB_EcoM-VR7, complete genome
+>GU323318.1 |Enterobacteria phage CC31, complete genome
+>HM134276.1 |Escherichia phage RB16, complete genome
+>HM137666.1 |Enterobacteria phage T4T, complete genome
+>HM071924.1 |Enterobacteria phage IME08, complete sequence
+>GU903191.1 |Escherichia phage vB_EcoM_ECO1230-10, complete genome
+>GQ468526.1 |Enterobacteria phage 285P, complete genome
+>GU385905.1 |Enterobacteria phage phiX174 isolate JACSK, complete genome
+>GU196277.1 |Escherichia phage K1G, complete genome
+>GU196278.1 |Escherichia phage K1H, complete genome
+>GU196279.1 |Escherichia phage K1ind1, complete genome
+>GU196280.1 |Escherichia phage K1ind2, complete genome
+>GU196281.1 |Escherichia phage K1ind3, complete genome
+>GQ357916.1 |Escherichia phage D108, complete genome
+>FJ483837.1 |Enterobacteria phage BZ13 strain DL10, complete genome
+>FJ483838.1 |Enterobacteria phage BZ13 strain T72, complete genome
+>FJ483839.1 |Enterobacteria phage BZ13 strain DL20, complete genome
+>FJ483840.1 |Enterobacteria phage Qbeta strain TW18, complete genome
+>FJ483841.1 |Enterobacteria phage Qbeta strain HL4-9, complete genome
+>FJ483842.1 |Enterobacteria phage Qbeta strain BR12, complete genome
+>FJ483843.1 |Enterobacteria phage Qbeta strain VK, complete genome
+>FJ483844.1 |Enterobacteria phage Qbeta strain BZ1, complete genome
+>FJ539132.1 |Enterobacteria phage FI strain HB-P22, complete genome
+>FJ539133.1 |Enterobacteria phage FI strain HB-P24, complete genome
+>FJ539134.1 |Enterobacteria phage FI strain BR1, complete genome
+>FJ539135.1 |Enterobacteria phage FI strain BR8, complete genome
+>EU078592.1 |Enterobacteria phage DE3, complete genome
+>GQ149088.1 |Enterobacteria phage St-1, complete genome
+>EU877232.1 |Enterobacteria phage WV8, complete sequence
+>EU863408.1 |Enterobacteria phage JSE, complete genome
+>EU863409.1 |Enterobacteria phage JS10, complete sequence
+>FJ849058.1 |Enterobacteria phage phiX174 isolate JACS, complete genome
+>FJ750948.2 |Escherichia phage SSL-2009a, complete genome
+>EU734171.1 |Enterobacteria phage BA14, complete genome
+>EU734172.1 |Enterobacteria phage EcoDS1, complete genome
+>EU734174.1 |Enterobacteria phage 13a, complete genome
+>DQ832317.1 |Escherichia coli bacteriophage rv5, complete sequence
+>CP000917.1 |Enterobacteria phage EPS7, complete genome
+>EU330206.1 |Enterobacteria phage phiEco32, complete genome
+>EU311208.1 |Enterobacteria phage Min27, complete genome
+>EF437941.1 |Enterobacteria phage Phi1, complete genome
+>CP000711.1 |Enterobacteria phage CUS-3, complete genome
+>EF380009.1 |Enterobacteria phage phiX174 isolate AP100, complete genome
+>EF380010.1 |Enterobacteria phage phiX174 isolate 3A90, complete genome
+>EF380011.1 |Enterobacteria phage phiX174 isolate 3B90, complete genome
+>EF380012.1 |Enterobacteria phage phiX174 isolate 3C90, complete genome
+>EF380013.1 |Enterobacteria phage phiX174 isolate 10A90, complete genome
+>EF380014.1 |Enterobacteria phage phiX174 isolate 10B90, complete genome
+>EF380015.1 |Enterobacteria phage phiX174 isolate 10C90, complete genome
+>EF380016.1 |Enterobacteria phage phiX174 isolate 30A90, complete genome
+>EF380017.1 |Enterobacteria phage phiX174 isolate 30B90, complete genome
+>EF380018.1 |Enterobacteria phage phiX174 isolate 30C90, complete genome
+>EF380019.1 |Enterobacteria phage phiX174 isolate 100A90, complete genome
+>EF380020.1 |Enterobacteria phage phiX174 isolate 100B90, complete genome
+>EF380021.1 |Enterobacteria phage phiX174 isolate 100C90, complete genome
+>EF380022.1 |Enterobacteria phage phiX174 isolate 3D90, complete genome
+>EF380023.1 |Enterobacteria phage phiX174 isolate 3E90, complete genome
+>EF380024.1 |Enterobacteria phage phiX174 isolate 3F90, complete genome
+>EF380025.1 |Enterobacteria phage phiX174 isolate 10D90, complete genome
+>EF380026.1 |Enterobacteria phage phiX174 isolate 10E90, complete genome
+>EF380027.1 |Enterobacteria phage phiX174 isolate 10F90, complete genome
+>EF380028.1 |Enterobacteria phage phiX174 isolate 250A55, complete genome
+>EF380029.1 |Enterobacteria phage phiX174 isolate 250B55, complete genome
+>EF380030.1 |Enterobacteria phage phiX174 isolate 250C55, complete genome
+>EF380031.1 |Enterobacteria phage phiX174 isolate DEL1, complete genome
+>EF380032.1 |Enterobacteria phage phiX174 isolate DEL4, complete genome
+>EF056009.1 |Enterobacteria phage N4, complete genome
+>DQ126339.2 |Enterobacteria phage phiV10, complete genome
+>AY135739.1 |Escherichia phage Wphi, complete genome
+>AF063097.1 |Bacteriophage P2, complete genome
+
